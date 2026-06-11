@@ -1,0 +1,975 @@
+fileFormatVersion: 2
+guid: 9e16125158aa3594bb9557fa1c90e338
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7201754629967196513
+    second: lvl9_Death_0
+  - first:
+      213: -2964495880934893846
+    second: lvl9_Death_1
+  - first:
+      213: -610450152694118433
+    second: lvl9_Death_2
+  - first:
+      213: 7096621705551945794
+    second: lvl9_Death_3
+  - first:
+      213: -2558214296624175669
+    second: lvl9_Death_4
+  - first:
+      213: -8033730924465087327
+    second: lvl9_Death_5
+  - first:
+      213: 1684503760299399340
+    second: lvl9_Death_6
+  - first:
+      213: -8086794494691949918
+    second: lvl9_Death_7
+  - first:
+      213: -6507946395121502626
+    second: lvl9_Death_8
+  - first:
+      213: 3341996839430475528
+    second: lvl9_Death_9
+  - first:
+      213: -3548402714171779193
+    second: lvl9_Death_10
+  - first:
+      213: 3593828803211988931
+    second: lvl9_Death_11
+  - first:
+      213: 9016876442738202728
+    second: lvl9_Death_12
+  - first:
+      213: -7134986478760532227
+    second: lvl9_Death_13
+  - first:
+      213: -1211707085078582755
+    second: lvl9_Death_14
+  - first:
+      213: -3362127965482773351
+    second: lvl9_Death_15
+  - first:
+      213: 6927287279926344821
+    second: lvl9_Death_16
+  - first:
+      213: 2790483912419768167
+    second: lvl9_Death_17
+  - first:
+      213: -6891049370617681302
+    second: lvl9_Death_18
+  - first:
+      213: -2248961080927915116
+    second: lvl9_Death_19
+  - first:
+      213: 2273731944786290088
+    second: lvl9_Death_20
+  - first:
+      213: 5871890674036444377
+    second: lvl9_Death_21
+  - first:
+      213: -7175482959905869905
+    second: lvl9_Death_22
+  - first:
+      213: -2763825200082021729
+    second: lvl9_Death_23
+  - first:
+      213: -1849914479061631892
+    second: lvl9_Death_24
+  - first:
+      213: -1908562452187779895
+    second: lvl9_Death_25
+  - first:
+      213: -5757427336794009629
+    second: lvl9_Death_26
+  - first:
+      213: 3645725125172973730
+    second: lvl9_Death_27
+  - first:
+      213: -8431011705757147150
+    second: lvl9_Death_28
+  - first:
+      213: -141905756168154902
+    second: lvl9_Death_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lvl9_Death_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 211
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16138beeda5c1f360800000000000000
+      internalID: 7201754629967196513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_Death_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 211
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae654cee3befbd6d0800000000000000
+      internalID: -2964495880934893846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_Death_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 206
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7859702de3787f0800000000000000
+      internalID: -610450152694118433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_Death_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 210
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24020c877d34c7260800000000000000
+      internalID: 7096621705551945794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_Death_4
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 207
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5e366b6a56f7cd0800000000000000
+      internalID: -2558214296624175669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_Death_5
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 206
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac103ae944728090800000000000000
+      internalID: -8033730924465087327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_Death_6
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 206
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8947fbe3f806710800000000000000
+      internalID: 1684503760299399340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_Death_7
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 206
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a24d44b04fe5cf80800000000000000
+      internalID: -8086794494691949918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_Death_8
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 147
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56bf75fb312fa5a0800000000000000
+      internalID: -6507946395121502626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_Death_9
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 147
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f4bb63b68216e20800000000000000
+      internalID: 3341996839430475528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_Death_10
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 145
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78752cd188a81cec0800000000000000
+      internalID: -3548402714171779193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_Death_11
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 146
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf840f6148dfd130800000000000000
+      internalID: 3593828803211988931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_Death_12
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 145
+        width: 45
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8689ff8e951622d70800000000000000
+      internalID: 9016876442738202728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_Death_13
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 145
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df66340b99f6bfc90800000000000000
+      internalID: -7134986478760532227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_Death_14
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 145
+        width: 43
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a211673d62f2fe0800000000000000
+      internalID: -1211707085078582755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_Death_15
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 83
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9941effbd625751d0800000000000000
+      internalID: -3362127965482773351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_Death_16
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 83
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c7719241ba22060800000000000000
+      internalID: 6927287279926344821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_Death_17
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 78
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767f83f655ac9b620800000000000000
+      internalID: 2790483912419768167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_Death_18
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 79
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a67a69b131e50a0800000000000000
+      internalID: -6891049370617681302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_Death_19
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 78
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493fc99ffc51ac0e0800000000000000
+      internalID: -2248961080927915116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_Death_20
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 78
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5e173382bed8f10800000000000000
+      internalID: 2273731944786290088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_Death_21
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 78
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc0fd915752d7150800000000000000
+      internalID: 5871890674036444377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_Death_22
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 19
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf21fae3409b6c90800000000000000
+      internalID: -7175482959905869905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_Death_23
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 18
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9296d7bf9be4a9d0800000000000000
+      internalID: -2763825200082021729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_Death_24
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 18
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6cfda22598c356e0800000000000000
+      internalID: -1849914479061631892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_Death_25
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 16
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cce2bdcf8c6385e0800000000000000
+      internalID: -1908562452187779895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_Death_26
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 17
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef054267528910b0800000000000000
+      internalID: -5757427336794009629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_Death_27
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 16
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0d6aa7fa7389230800000000000000
+      internalID: 3645725125172973730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_Death_28
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 16
+        width: 49
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff5f25e5870ffa80800000000000000
+      internalID: -8431011705757147150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_Death_29
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 15
+        width: 46
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae093047779d70ef0800000000000000
+      internalID: -141905756168154902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lvl9_Death_0: 7201754629967196513
+      lvl9_Death_1: -2964495880934893846
+      lvl9_Death_10: -3548402714171779193
+      lvl9_Death_11: 3593828803211988931
+      lvl9_Death_12: 9016876442738202728
+      lvl9_Death_13: -7134986478760532227
+      lvl9_Death_14: -1211707085078582755
+      lvl9_Death_15: -3362127965482773351
+      lvl9_Death_16: 6927287279926344821
+      lvl9_Death_17: 2790483912419768167
+      lvl9_Death_18: -6891049370617681302
+      lvl9_Death_19: -2248961080927915116
+      lvl9_Death_2: -610450152694118433
+      lvl9_Death_20: 2273731944786290088
+      lvl9_Death_21: 5871890674036444377
+      lvl9_Death_22: -7175482959905869905
+      lvl9_Death_23: -2763825200082021729
+      lvl9_Death_24: -1849914479061631892
+      lvl9_Death_25: -1908562452187779895
+      lvl9_Death_26: -5757427336794009629
+      lvl9_Death_27: 3645725125172973730
+      lvl9_Death_28: -8431011705757147150
+      lvl9_Death_29: -141905756168154902
+      lvl9_Death_3: 7096621705551945794
+      lvl9_Death_4: -2558214296624175669
+      lvl9_Death_5: -8033730924465087327
+      lvl9_Death_6: 1684503760299399340
+      lvl9_Death_7: -8086794494691949918
+      lvl9_Death_8: -6507946395121502626
+      lvl9_Death_9: 3341996839430475528
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

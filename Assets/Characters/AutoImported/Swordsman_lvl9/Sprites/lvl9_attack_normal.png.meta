@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: c3e20bec33ad4de4694f01e3df0d02e3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 489966593423100138
+    second: lvl9_attack_normal_0
+  - first:
+      213: 6042675890975629573
+    second: lvl9_attack_normal_1
+  - first:
+      213: -4503694597940958812
+    second: lvl9_attack_normal_2
+  - first:
+      213: 4840548203629669795
+    second: lvl9_attack_normal_3
+  - first:
+      213: 6801514883282919053
+    second: lvl9_attack_normal_4
+  - first:
+      213: 7252081993535985587
+    second: lvl9_attack_normal_5
+  - first:
+      213: -3756602819866330079
+    second: lvl9_attack_normal_6
+  - first:
+      213: 3986297728771634695
+    second: lvl9_attack_normal_7
+  - first:
+      213: 3724009310121427939
+    second: lvl9_attack_normal_8
+  - first:
+      213: 3270587524544162062
+    second: lvl9_attack_normal_9
+  - first:
+      213: 6406647448902953225
+    second: lvl9_attack_normal_10
+  - first:
+      213: -23329090919369804
+    second: lvl9_attack_normal_11
+  - first:
+      213: -2661994857859286331
+    second: lvl9_attack_normal_12
+  - first:
+      213: 477104474252793199
+    second: lvl9_attack_normal_13
+  - first:
+      213: 6291582319027253114
+    second: lvl9_attack_normal_14
+  - first:
+      213: -4606326035392414429
+    second: lvl9_attack_normal_15
+  - first:
+      213: 8291406747960763319
+    second: lvl9_attack_normal_16
+  - first:
+      213: -6066383837682510616
+    second: lvl9_attack_normal_17
+  - first:
+      213: -6087885791984113839
+    second: lvl9_attack_normal_18
+  - first:
+      213: -8899341504610020272
+    second: lvl9_attack_normal_19
+  - first:
+      213: 3736393784803074534
+    second: lvl9_attack_normal_20
+  - first:
+      213: 4206598493799639880
+    second: lvl9_attack_normal_21
+  - first:
+      213: -3536967904107874793
+    second: lvl9_attack_normal_22
+  - first:
+      213: 7229342873932205157
+    second: lvl9_attack_normal_23
+  - first:
+      213: -1629186473854030692
+    second: lvl9_attack_normal_24
+  - first:
+      213: 119811386569070520
+    second: lvl9_attack_normal_25
+  - first:
+      213: 6163359417006483262
+    second: lvl9_attack_normal_26
+  - first:
+      213: 3900465807358330702
+    second: lvl9_attack_normal_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lvl9_attack_normal_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 211
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8cac05506bcc600800000000000000
+      internalID: 489966593423100138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_attack_normal_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 211
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5016b6615b5ebd350800000000000000
+      internalID: 6042675890975629573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_attack_normal_2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 211
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a922e0ff99af71c0800000000000000
+      internalID: -4503694597940958812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_attack_normal_3
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 210
+        width: 53
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad6083e1f41d2340800000000000000
+      internalID: 4840548203629669795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_attack_normal_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 211
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e5c9810c5d36e50800000000000000
+      internalID: 6801514883282919053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_attack_normal_5
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 211
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b718b2662294a460800000000000000
+      internalID: 7252081993535985587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_attack_normal_6
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 211
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12cf2af73addddbc0800000000000000
+      internalID: -3756602819866330079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_attack_normal_7
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 147
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706316cf9ac225730800000000000000
+      internalID: 3986297728771634695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_attack_normal_8
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 147
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e30906acb65ea330800000000000000
+      internalID: 3724009310121427939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_attack_normal_9
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 147
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0967477606736d20800000000000000
+      internalID: 3270587524544162062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_attack_normal_10
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 147
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909e50139ebf8e850800000000000000
+      internalID: 6406647448902953225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_attack_normal_11
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 147
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b371deb05e1daff0800000000000000
+      internalID: -23329090919369804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_attack_normal_12
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 147
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca7167d7c1be0bd0800000000000000
+      internalID: -2661994857859286331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_attack_normal_13
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 147
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f655694ddf30f9600800000000000000
+      internalID: 477104474252793199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_attack_normal_14
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 83
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f6fb0f8c0305750800000000000000
+      internalID: 6291582319027253114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_attack_normal_15
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 83
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d3dcc40ea0310c0800000000000000
+      internalID: -4606326035392414429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_attack_normal_16
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 83
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b36a7ce18ef01370800000000000000
+      internalID: 8291406747960763319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_attack_normal_17
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 83
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e453cb6a00efcba0800000000000000
+      internalID: -6066383837682510616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_attack_normal_18
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 83
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157a3af802c738ba0800000000000000
+      internalID: -6087885791984113839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_attack_normal_19
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 83
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05454d26d003f7480800000000000000
+      internalID: -8899341504610020272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_attack_normal_20
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 83
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e12a2cd9565ad330800000000000000
+      internalID: 3736393784803074534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_attack_normal_21
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 19
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84bee97ea07d06a30800000000000000
+      internalID: 4206598493799639880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_attack_normal_22
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 19
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71631bd4e6a2aeec0800000000000000
+      internalID: -3536967904107874793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_attack_normal_23
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 19
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c0b388a09c35460800000000000000
+      internalID: 7229342873932205157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_attack_normal_24
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 19
+        width: 53
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c2f09a887f369e0800000000000000
+      internalID: -1629186473854030692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_attack_normal_25
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 19
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b71f7042d7a9a100800000000000000
+      internalID: 119811386569070520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_attack_normal_26
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 19
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37eab12cb6a88550800000000000000
+      internalID: 6163359417006483262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_attack_normal_27
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 19
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47862a7cfc312630800000000000000
+      internalID: 3900465807358330702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lvl9_attack_normal_0: 489966593423100138
+      lvl9_attack_normal_1: 6042675890975629573
+      lvl9_attack_normal_10: 6406647448902953225
+      lvl9_attack_normal_11: -23329090919369804
+      lvl9_attack_normal_12: -2661994857859286331
+      lvl9_attack_normal_13: 477104474252793199
+      lvl9_attack_normal_14: 6291582319027253114
+      lvl9_attack_normal_15: -4606326035392414429
+      lvl9_attack_normal_16: 8291406747960763319
+      lvl9_attack_normal_17: -6066383837682510616
+      lvl9_attack_normal_18: -6087885791984113839
+      lvl9_attack_normal_19: -8899341504610020272
+      lvl9_attack_normal_2: -4503694597940958812
+      lvl9_attack_normal_20: 3736393784803074534
+      lvl9_attack_normal_21: 4206598493799639880
+      lvl9_attack_normal_22: -3536967904107874793
+      lvl9_attack_normal_23: 7229342873932205157
+      lvl9_attack_normal_24: -1629186473854030692
+      lvl9_attack_normal_25: 119811386569070520
+      lvl9_attack_normal_26: 6163359417006483262
+      lvl9_attack_normal_27: 3900465807358330702
+      lvl9_attack_normal_3: 4840548203629669795
+      lvl9_attack_normal_4: 6801514883282919053
+      lvl9_attack_normal_5: 7252081993535985587
+      lvl9_attack_normal_6: -3756602819866330079
+      lvl9_attack_normal_7: 3986297728771634695
+      lvl9_attack_normal_8: 3724009310121427939
+      lvl9_attack_normal_9: 3270587524544162062
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

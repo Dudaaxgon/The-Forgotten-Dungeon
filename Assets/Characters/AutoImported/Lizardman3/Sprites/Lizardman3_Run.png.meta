@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: bd91064337d860843adb43a963c9b8e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6081904514324819883
+    second: Lizardman3_Run_0
+  - first:
+      213: 7382309672084110209
+    second: Lizardman3_Run_1
+  - first:
+      213: 8004039427607330377
+    second: Lizardman3_Run_2
+  - first:
+      213: -881497057362507568
+    second: Lizardman3_Run_3
+  - first:
+      213: -195550322543956952
+    second: Lizardman3_Run_4
+  - first:
+      213: -4615352641329633710
+    second: Lizardman3_Run_5
+  - first:
+      213: 6406830843168621060
+    second: Lizardman3_Run_6
+  - first:
+      213: 2984683805640843323
+    second: Lizardman3_Run_7
+  - first:
+      213: -1314232212370939606
+    second: Lizardman3_Run_8
+  - first:
+      213: -2152810549765599049
+    second: Lizardman3_Run_9
+  - first:
+      213: -3372891761054274560
+    second: Lizardman3_Run_10
+  - first:
+      213: 7347986207094502072
+    second: Lizardman3_Run_11
+  - first:
+      213: 565027757956689673
+    second: Lizardman3_Run_12
+  - first:
+      213: -7307341944172381057
+    second: Lizardman3_Run_13
+  - first:
+      213: 1416106994659676055
+    second: Lizardman3_Run_14
+  - first:
+      213: 3367113133711217708
+    second: Lizardman3_Run_15
+  - first:
+      213: -4749107869191676922
+    second: Lizardman3_Run_16
+  - first:
+      213: 1462593268663898749
+    second: Lizardman3_Run_17
+  - first:
+      213: -2225069573617339921
+    second: Lizardman3_Run_18
+  - first:
+      213: 5575896212438487714
+    second: Lizardman3_Run_19
+  - first:
+      213: 4200810849788992277
+    second: Lizardman3_Run_20
+  - first:
+      213: -1714192932007252133
+    second: Lizardman3_Run_21
+  - first:
+      213: 2685556702332337962
+    second: Lizardman3_Run_22
+  - first:
+      213: -4407674695583994585
+    second: Lizardman3_Run_23
+  - first:
+      213: 1577128970923324952
+    second: Lizardman3_Run_24
+  - first:
+      213: 336029923725436093
+    second: Lizardman3_Run_25
+  - first:
+      213: 8730639970543555419
+    second: Lizardman3_Run_26
+  - first:
+      213: -3471540840005053572
+    second: Lizardman3_Run_27
+  - first:
+      213: 2758481061970363317
+    second: Lizardman3_Run_28
+  - first:
+      213: 750975793496731718
+    second: Lizardman3_Run_29
+  - first:
+      213: 8785861421417463737
+    second: Lizardman3_Run_30
+  - first:
+      213: -2527969363370319041
+    second: Lizardman3_Run_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lizardman3_Run_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 212
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55013d9411cb89ba0800000000000000
+      internalID: -6081904514324819883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Run_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 212
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18bf08a988b337660800000000000000
+      internalID: 7382309672084110209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Run_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 212
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e71c2c37f041f60800000000000000
+      internalID: 8004039427607330377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Run_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 215
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d80b51c81b44c3f0800000000000000
+      internalID: -881497057362507568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Run_4
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 212
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ced098404494df0800000000000000
+      internalID: -195550322543956952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Run_5
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 212
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256e264d939f2ffb0800000000000000
+      internalID: -4615352641329633710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Run_6
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 212
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402051ff4b2a9e850800000000000000
+      internalID: 6406830843168621060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Run_7
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 214
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3065129b1abb6920800000000000000
+      internalID: 2984683805640843323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Run_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 145
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21214514c8e2cde0800000000000000
+      internalID: -1314232212370939606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Run_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b01288063eaf12e0800000000000000
+      internalID: -2152810549765599049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Run_10
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 145
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ca48c40d41131d0800000000000000
+      internalID: -3372891761054274560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Run_11
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 149
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b27658268a49f560800000000000000
+      internalID: 7347986207094502072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Run_12
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 148
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f6e3190c167d700800000000000000
+      internalID: 565027757956689673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Run_13
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 148
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7cfa4db73b179a90800000000000000
+      internalID: -7307341944172381057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Run_14
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 148
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79fc2ac0fc507a310800000000000000
+      internalID: 1416106994659676055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Run_15
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 148
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24d86d2e836abe20800000000000000
+      internalID: 3367113133711217708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Run_16
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 85
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c51d80e87c71eb0800000000000000
+      internalID: -4749107869191676922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Run_17
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 84
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72d69524dc2c4410800000000000000
+      internalID: 1462593268663898749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Run_18
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 84
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe132000307fe11e0800000000000000
+      internalID: -2225069573617339921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Run_19
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 84
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a297d61010916d40800000000000000
+      internalID: 5575896212438487714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Run_20
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 84
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b974606374c4a30800000000000000
+      internalID: 4200810849788992277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Run_21
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 84
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5fe83b4c96f538e0800000000000000
+      internalID: -1714192932007252133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Run_22
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 84
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f30b29793054520800000000000000
+      internalID: 2685556702332337962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Run_23
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 85
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72dec3c973bc4d2c0800000000000000
+      internalID: -4407674695583994585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Run_24
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 21
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816bcdc617613e510800000000000000
+      internalID: 1577128970923324952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Run_25
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 20
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db46e8d6f61d9a400800000000000000
+      internalID: 336029923725436093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Run_26
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 20
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53531adbc6792970800000000000000
+      internalID: 8730639970543555419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Run_27
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 20
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73dc30cffb92dfc0800000000000000
+      internalID: -3471540840005053572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Run_28
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 20
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3c26a29e7184620800000000000000
+      internalID: 2758481061970363317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Run_29
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 20
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6403a4e51800c6a00800000000000000
+      internalID: 750975793496731718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Run_30
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 20
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf756dc966ade970800000000000000
+      internalID: 8785861421417463737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Run_31
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 21
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33ed3df149daecd0800000000000000
+      internalID: -2527969363370319041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Lizardman3_Run_0: -6081904514324819883
+      Lizardman3_Run_1: 7382309672084110209
+      Lizardman3_Run_10: -3372891761054274560
+      Lizardman3_Run_11: 7347986207094502072
+      Lizardman3_Run_12: 565027757956689673
+      Lizardman3_Run_13: -7307341944172381057
+      Lizardman3_Run_14: 1416106994659676055
+      Lizardman3_Run_15: 3367113133711217708
+      Lizardman3_Run_16: -4749107869191676922
+      Lizardman3_Run_17: 1462593268663898749
+      Lizardman3_Run_18: -2225069573617339921
+      Lizardman3_Run_19: 5575896212438487714
+      Lizardman3_Run_2: 8004039427607330377
+      Lizardman3_Run_20: 4200810849788992277
+      Lizardman3_Run_21: -1714192932007252133
+      Lizardman3_Run_22: 2685556702332337962
+      Lizardman3_Run_23: -4407674695583994585
+      Lizardman3_Run_24: 1577128970923324952
+      Lizardman3_Run_25: 336029923725436093
+      Lizardman3_Run_26: 8730639970543555419
+      Lizardman3_Run_27: -3471540840005053572
+      Lizardman3_Run_28: 2758481061970363317
+      Lizardman3_Run_29: 750975793496731718
+      Lizardman3_Run_3: -881497057362507568
+      Lizardman3_Run_30: 8785861421417463737
+      Lizardman3_Run_31: -2527969363370319041
+      Lizardman3_Run_4: -195550322543956952
+      Lizardman3_Run_5: -4615352641329633710
+      Lizardman3_Run_6: 6406830843168621060
+      Lizardman3_Run_7: 2984683805640843323
+      Lizardman3_Run_8: -1314232212370939606
+      Lizardman3_Run_9: -2152810549765599049
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

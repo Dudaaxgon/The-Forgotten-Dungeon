@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: 4c351011c1cbca044a4cb4c92c2d6e5e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9180365856959839141
+    second: Zombie1_Run_0
+  - first:
+      213: -6351468749925063469
+    second: Zombie1_Run_1
+  - first:
+      213: 1599450723312175055
+    second: Zombie1_Run_2
+  - first:
+      213: -3472100408242770515
+    second: Zombie1_Run_3
+  - first:
+      213: 7905145623733892449
+    second: Zombie1_Run_4
+  - first:
+      213: 3760275755999213341
+    second: Zombie1_Run_5
+  - first:
+      213: -8822672639390779606
+    second: Zombie1_Run_6
+  - first:
+      213: 467392826875201835
+    second: Zombie1_Run_7
+  - first:
+      213: 4858084318186864020
+    second: Zombie1_Run_8
+  - first:
+      213: -5495806731535710543
+    second: Zombie1_Run_9
+  - first:
+      213: 6015605782061271878
+    second: Zombie1_Run_10
+  - first:
+      213: -8119292792706725609
+    second: Zombie1_Run_11
+  - first:
+      213: -3339564590313084614
+    second: Zombie1_Run_12
+  - first:
+      213: 2733486029453592262
+    second: Zombie1_Run_13
+  - first:
+      213: 2432484500440832923
+    second: Zombie1_Run_14
+  - first:
+      213: 220188987223663655
+    second: Zombie1_Run_15
+  - first:
+      213: 2474797501341370603
+    second: Zombie1_Run_16
+  - first:
+      213: -2532914327310201924
+    second: Zombie1_Run_17
+  - first:
+      213: -4910754445292534822
+    second: Zombie1_Run_18
+  - first:
+      213: 6219666534081860807
+    second: Zombie1_Run_19
+  - first:
+      213: -8101664706502274481
+    second: Zombie1_Run_20
+  - first:
+      213: -8338174309997870311
+    second: Zombie1_Run_21
+  - first:
+      213: 4058144956963006056
+    second: Zombie1_Run_22
+  - first:
+      213: -6493263370006765045
+    second: Zombie1_Run_23
+  - first:
+      213: 7915730154316756329
+    second: Zombie1_Run_24
+  - first:
+      213: -9214212177605089878
+    second: Zombie1_Run_25
+  - first:
+      213: -3638524992242568017
+    second: Zombie1_Run_26
+  - first:
+      213: -9105071346792716278
+    second: Zombie1_Run_27
+  - first:
+      213: -346046198761736290
+    second: Zombie1_Run_28
+  - first:
+      213: 7483853343230487395
+    second: Zombie1_Run_29
+  - first:
+      213: 8396025138597300273
+    second: Zombie1_Run_30
+  - first:
+      213: 6379635099382950374
+    second: Zombie1_Run_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zombie1_Run_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 214
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54c8cb84e9c89080800000000000000
+      internalID: -9180365856959839141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie1_Run_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 214
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4e8bec2dc0bd7a0800000000000000
+      internalID: -6351468749925063469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie1_Run_2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 214
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc783c665f3623610800000000000000
+      internalID: 1599450723312175055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie1_Run_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 218
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad633e131f90dfc0800000000000000
+      internalID: -3472100408242770515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie1_Run_4
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 214
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1657460cf08b4bd60800000000000000
+      internalID: 7905145623733892449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie1_Run_5
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 214
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17b8d590ee2f2430800000000000000
+      internalID: 3760275755999213341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie1_Run_6
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 214
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27fd8f9af19f8580800000000000000
+      internalID: -8822672639390779606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie1_Run_7
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 218
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b294678bc438c7600800000000000000
+      internalID: 467392826875201835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie1_Run_8
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 150
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d7c6ab2f16b6340800000000000000
+      internalID: 4858084318186864020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie1_Run_9
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 150
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b60d9c45e8fab3b0800000000000000
+      internalID: -5495806731535710543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie1_Run_10
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 150
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b4c843699bb7350800000000000000
+      internalID: 6015605782061271878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie1_Run_11
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 155
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719835f093a725f80800000000000000
+      internalID: -8119292792706725609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie1_Run_12
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 150
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a396ae9e2bb77a1d0800000000000000
+      internalID: -3339564590313084614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie1_Run_13
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 150
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c60318af0b4fe520800000000000000
+      internalID: 2733486029453592262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie1_Run_14
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 150
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b5b6ae3cbe1c120800000000000000
+      internalID: 2432484500440832923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie1_Run_15
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 155
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7246bee97b44e0300800000000000000
+      internalID: 220188987223663655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie1_Run_16
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 87
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be80a76273f385220800000000000000
+      internalID: 2474797501341370603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie1_Run_17
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 86
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb8d2ad6d749dcd0800000000000000
+      internalID: -2532914327310201924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie1_Run_18
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 86
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad30b2da9de79dbb0800000000000000
+      internalID: -4910754445292534822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie1_Run_19
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 91
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4955172c1b05650800000000000000
+      internalID: 6219666534081860807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie1_Run_20
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 86
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42dc97bfda119f80800000000000000
+      internalID: -8101664706502274481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie1_Run_21
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 86
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9130a4184aad84c80800000000000000
+      internalID: -8338174309997870311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie1_Run_22
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 86
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866a2de565d615830800000000000000
+      internalID: 4058144956963006056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie1_Run_23
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 90
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02e0b52e5b43e5a0800000000000000
+      internalID: -6493263370006765045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie1_Run_24
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 23
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965f5e1d2a25add60800000000000000
+      internalID: 7915730154316756329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie1_Run_25
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 22
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa525cce7da802080800000000000000
+      internalID: -9214212177605089878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie1_Run_26
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 22
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4300b1ccc518dc0800000000000000
+      internalID: -3638524992242568017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie1_Run_27
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 27
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0825dfc9d944a180800000000000000
+      internalID: -9105071346792716278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie1_Run_28
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 22
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97beeec0d8923bf0800000000000000
+      internalID: -346046198761736290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie1_Run_29
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 22
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b6f5ae6fcfbd760800000000000000
+      internalID: 7483853343230487395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie1_Run_30
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 22
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1388757216ca48470800000000000000
+      internalID: 8396025138597300273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie1_Run_31
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 26
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9a5577254098850800000000000000
+      internalID: 6379635099382950374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Zombie1_Run_0: -9180365856959839141
+      Zombie1_Run_1: -6351468749925063469
+      Zombie1_Run_10: 6015605782061271878
+      Zombie1_Run_11: -8119292792706725609
+      Zombie1_Run_12: -3339564590313084614
+      Zombie1_Run_13: 2733486029453592262
+      Zombie1_Run_14: 2432484500440832923
+      Zombie1_Run_15: 220188987223663655
+      Zombie1_Run_16: 2474797501341370603
+      Zombie1_Run_17: -2532914327310201924
+      Zombie1_Run_18: -4910754445292534822
+      Zombie1_Run_19: 6219666534081860807
+      Zombie1_Run_2: 1599450723312175055
+      Zombie1_Run_20: -8101664706502274481
+      Zombie1_Run_21: -8338174309997870311
+      Zombie1_Run_22: 4058144956963006056
+      Zombie1_Run_23: -6493263370006765045
+      Zombie1_Run_24: 7915730154316756329
+      Zombie1_Run_25: -9214212177605089878
+      Zombie1_Run_26: -3638524992242568017
+      Zombie1_Run_27: -9105071346792716278
+      Zombie1_Run_28: -346046198761736290
+      Zombie1_Run_29: 7483853343230487395
+      Zombie1_Run_3: -3472100408242770515
+      Zombie1_Run_30: 8396025138597300273
+      Zombie1_Run_31: 6379635099382950374
+      Zombie1_Run_4: 7905145623733892449
+      Zombie1_Run_5: 3760275755999213341
+      Zombie1_Run_6: -8822672639390779606
+      Zombie1_Run_7: 467392826875201835
+      Zombie1_Run_8: 4858084318186864020
+      Zombie1_Run_9: -5495806731535710543
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

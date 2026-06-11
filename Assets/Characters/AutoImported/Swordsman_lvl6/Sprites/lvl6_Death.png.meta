@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: 1126f5bd51e91ae4b8b7ce6503d72c99
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1703477511367247170
+    second: lvl6_Death_0
+  - first:
+      213: -3405848078316170259
+    second: lvl6_Death_1
+  - first:
+      213: -3630920223287823927
+    second: lvl6_Death_2
+  - first:
+      213: -5787309377597257422
+    second: lvl6_Death_3
+  - first:
+      213: 8471107923054221277
+    second: lvl6_Death_4
+  - first:
+      213: 8578751151737823951
+    second: lvl6_Death_5
+  - first:
+      213: -6175894596355811368
+    second: lvl6_Death_6
+  - first:
+      213: -2090190391869003458
+    second: lvl6_Death_7
+  - first:
+      213: -5988095494857398204
+    second: lvl6_Death_8
+  - first:
+      213: -956819809143580249
+    second: lvl6_Death_9
+  - first:
+      213: 1565975014400357389
+    second: lvl6_Death_10
+  - first:
+      213: 8353888079918700150
+    second: lvl6_Death_11
+  - first:
+      213: -6316572196450382342
+    second: lvl6_Death_12
+  - first:
+      213: -3554690542342175602
+    second: lvl6_Death_13
+  - first:
+      213: -700833706268813515
+    second: lvl6_Death_14
+  - first:
+      213: -726396799515512403
+    second: lvl6_Death_15
+  - first:
+      213: 7534769306614793001
+    second: lvl6_Death_16
+  - first:
+      213: -5111007874733267580
+    second: lvl6_Death_17
+  - first:
+      213: 3678584950194458184
+    second: lvl6_Death_18
+  - first:
+      213: 6876565325555103828
+    second: lvl6_Death_19
+  - first:
+      213: 2831178326212669131
+    second: lvl6_Death_20
+  - first:
+      213: -7590135590704905046
+    second: lvl6_Death_21
+  - first:
+      213: -2063995767464279186
+    second: lvl6_Death_22
+  - first:
+      213: 3490169770516154994
+    second: lvl6_Death_23
+  - first:
+      213: -3094719324493025520
+    second: lvl6_Death_24
+  - first:
+      213: -5896078085390145354
+    second: lvl6_Death_25
+  - first:
+      213: -904679626997013215
+    second: lvl6_Death_26
+  - first:
+      213: -2404384520396915563
+    second: lvl6_Death_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lvl6_Death_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 207
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebab6149a380c58e0800000000000000
+      internalID: -1703477511367247170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_Death_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 210
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3940db73ffbb0d0800000000000000
+      internalID: -3405848078316170259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_Death_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 209
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1b52b5b416c9dc0800000000000000
+      internalID: -3630920223287823927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_Death_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 205
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239470798c85fafa0800000000000000
+      internalID: -5787309377597257422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_Death_4
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 205
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7d4af26cb6f8570800000000000000
+      internalID: 8471107923054221277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_Death_5
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 205
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc26ec768b8dd0770800000000000000
+      internalID: 8578751151737823951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_Death_6
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 205
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d715fdf590da4aa0800000000000000
+      internalID: -6175894596355811368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_Death_7
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 147
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39a6b3b9e62ef2e0800000000000000
+      internalID: -2090190391869003458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_Death_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 147
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44868ebafd206eca0800000000000000
+      internalID: -5988095494857398204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_Death_9
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 147
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a990f9f371b8b2f0800000000000000
+      internalID: -956819809143580249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_Death_10
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 146
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04787c8af57bb510800000000000000
+      internalID: 1565975014400357389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_Death_11
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 145
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6769ce8a2f8fee370800000000000000
+      internalID: 8353888079918700150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_Death_12
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 145
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd4770dd070758a0800000000000000
+      internalID: -6316572196450382342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_Death_13
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 145
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84014909c33baec0800000000000000
+      internalID: -3554690542342175602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_Death_14
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 80
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5371a3315732646f0800000000000000
+      internalID: -700833706268813515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_Death_15
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 83
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1b5ee95f15be5f0800000000000000
+      internalID: -726396799515512403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_Death_16
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 82
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9238a4173c0e09860800000000000000
+      internalID: 7534769306614793001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_Death_17
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 78
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485ac4eca6d0219b0800000000000000
+      internalID: -5111007874733267580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_Death_18
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 78
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e4070b585fc0330800000000000000
+      internalID: 3678584950194458184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_Death_19
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 78
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458fa70eab77e6f50800000000000000
+      internalID: 6876565325555103828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_Death_20
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 78
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcee0bdffad5a4720800000000000000
+      internalID: 2831178326212669131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_Death_21
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 16
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa40cfef4eb6aa690800000000000000
+      internalID: -7590135590704905046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_Death_22
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 18
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63c166f8c63b53e0800000000000000
+      internalID: -2063995767464279186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_Death_23
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 18
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a0c612ae29f6030800000000000000
+      internalID: 3490169770516154994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_Death_24
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 16
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f6e00cb295d05d0800000000000000
+      internalID: -3094719324493025520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_Death_25
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 16
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8ea58583cec2ea0800000000000000
+      internalID: -5896078085390145354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_Death_26
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 16
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1256f452caee173f0800000000000000
+      internalID: -904679626997013215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_Death_27
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 16
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c3b468409e1aed0800000000000000
+      internalID: -2404384520396915563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lvl6_Death_0: -1703477511367247170
+      lvl6_Death_1: -3405848078316170259
+      lvl6_Death_10: 1565975014400357389
+      lvl6_Death_11: 8353888079918700150
+      lvl6_Death_12: -6316572196450382342
+      lvl6_Death_13: -3554690542342175602
+      lvl6_Death_14: -700833706268813515
+      lvl6_Death_15: -726396799515512403
+      lvl6_Death_16: 7534769306614793001
+      lvl6_Death_17: -5111007874733267580
+      lvl6_Death_18: 3678584950194458184
+      lvl6_Death_19: 6876565325555103828
+      lvl6_Death_2: -3630920223287823927
+      lvl6_Death_20: 2831178326212669131
+      lvl6_Death_21: -7590135590704905046
+      lvl6_Death_22: -2063995767464279186
+      lvl6_Death_23: 3490169770516154994
+      lvl6_Death_24: -3094719324493025520
+      lvl6_Death_25: -5896078085390145354
+      lvl6_Death_26: -904679626997013215
+      lvl6_Death_27: -2404384520396915563
+      lvl6_Death_3: -5787309377597257422
+      lvl6_Death_4: 8471107923054221277
+      lvl6_Death_5: 8578751151737823951
+      lvl6_Death_6: -6175894596355811368
+      lvl6_Death_7: -2090190391869003458
+      lvl6_Death_8: -5988095494857398204
+      lvl6_Death_9: -956819809143580249
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: 9bf36327507c6004ea94c46ee0347215
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -751315430321229984
+    second: Mushroom3_Walk_0
+  - first:
+      213: -379195413797863932
+    second: Mushroom3_Walk_1
+  - first:
+      213: -2894701859411247890
+    second: Mushroom3_Walk_2
+  - first:
+      213: -3554654827459035546
+    second: Mushroom3_Walk_3
+  - first:
+      213: -899085052786718093
+    second: Mushroom3_Walk_4
+  - first:
+      213: -208237361963707982
+    second: Mushroom3_Walk_5
+  - first:
+      213: -5318329696251783757
+    second: Mushroom3_Walk_6
+  - first:
+      213: -8006346714156045384
+    second: Mushroom3_Walk_7
+  - first:
+      213: -783603613964218305
+    second: Mushroom3_Walk_8
+  - first:
+      213: 6513403811479615736
+    second: Mushroom3_Walk_9
+  - first:
+      213: 6089752342022439425
+    second: Mushroom3_Walk_10
+  - first:
+      213: 8006965199073709318
+    second: Mushroom3_Walk_11
+  - first:
+      213: -8926010328351919665
+    second: Mushroom3_Walk_12
+  - first:
+      213: 3722052594911362682
+    second: Mushroom3_Walk_13
+  - first:
+      213: 4089853089460444421
+    second: Mushroom3_Walk_14
+  - first:
+      213: 2459038481157918798
+    second: Mushroom3_Walk_15
+  - first:
+      213: -8685526250001417523
+    second: Mushroom3_Walk_16
+  - first:
+      213: -6459959492431161750
+    second: Mushroom3_Walk_17
+  - first:
+      213: 7033031289805821224
+    second: Mushroom3_Walk_18
+  - first:
+      213: -8024004891288146422
+    second: Mushroom3_Walk_19
+  - first:
+      213: -193824212835212459
+    second: Mushroom3_Walk_20
+  - first:
+      213: -550383852281482945
+    second: Mushroom3_Walk_21
+  - first:
+      213: 6016002934876140291
+    second: Mushroom3_Walk_22
+  - first:
+      213: 8810274056469296777
+    second: Mushroom3_Walk_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mushroom3_Walk_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 212
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06fee65c89ac295f0800000000000000
+      internalID: -751315430321229984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom3_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 212
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40efe1cb7c3dcbaf0800000000000000
+      internalID: -379195413797863932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom3_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 212
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec3123eef3f3d7d0800000000000000
+      internalID: -2894701859411247890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom3_Walk_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 212
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e3d2e84445baec0800000000000000
+      internalID: -3554654827459035546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom3_Walk_4
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 212
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ac8c578eec583f0800000000000000
+      internalID: -899085052786718093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom3_Walk_5
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 212
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1503bf8313c1df0800000000000000
+      internalID: -208237361963707982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom3_Walk_6
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 150
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b55088a15f7136b0800000000000000
+      internalID: -5318329696251783757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom3_Walk_7
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 149
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bbec1a351eb3e090800000000000000
+      internalID: -8006346714156045384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom3_Walk_8
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 149
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3053f03aa41025f0800000000000000
+      internalID: -783603613964218305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom3_Walk_9
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 150
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8faedc142446a50800000000000000
+      internalID: 6513403811479615736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom3_Walk_10
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 149
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102c95c7d75238450800000000000000
+      internalID: 6089752342022439425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom3_Walk_11
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 149
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d04b30d647e1f60800000000000000
+      internalID: 8006965199073709318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom3_Walk_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 84
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc1bd1df5e0702480800000000000000
+      internalID: -8926010328351919665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom3_Walk_13
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 84
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e33036d1367a330800000000000000
+      internalID: 3722052594911362682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom3_Walk_14
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 84
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50dd2d447b312c830800000000000000
+      internalID: 4089853089460444421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom3_Walk_15
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 84
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e401f665872402220800000000000000
+      internalID: 2459038481157918798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom3_Walk_16
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 84
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcab55db4efc67780800000000000000
+      internalID: -8685526250001417523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom3_Walk_17
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 84
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a665a36611d9956a0800000000000000
+      internalID: -6459959492431161750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom3_Walk_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 20
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825551b02b85a9160800000000000000
+      internalID: 7033031289805821224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom3_Walk_19
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 20
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ee5ca701205a090800000000000000
+      internalID: -8024004891288146422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom3_Walk_20
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 20
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5536615c7e56f4df0800000000000000
+      internalID: -193824212835212459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom3_Walk_21
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 20
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31b6aa6dc4ac58f0800000000000000
+      internalID: -550383852281482945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom3_Walk_22
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 20
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303fffc8bc22d7350800000000000000
+      internalID: 6016002934876140291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom3_Walk_23
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 20
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98631b55391644a70800000000000000
+      internalID: 8810274056469296777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mushroom3_Walk_0: -751315430321229984
+      Mushroom3_Walk_1: -379195413797863932
+      Mushroom3_Walk_10: 6089752342022439425
+      Mushroom3_Walk_11: 8006965199073709318
+      Mushroom3_Walk_12: -8926010328351919665
+      Mushroom3_Walk_13: 3722052594911362682
+      Mushroom3_Walk_14: 4089853089460444421
+      Mushroom3_Walk_15: 2459038481157918798
+      Mushroom3_Walk_16: -8685526250001417523
+      Mushroom3_Walk_17: -6459959492431161750
+      Mushroom3_Walk_18: 7033031289805821224
+      Mushroom3_Walk_19: -8024004891288146422
+      Mushroom3_Walk_2: -2894701859411247890
+      Mushroom3_Walk_20: -193824212835212459
+      Mushroom3_Walk_21: -550383852281482945
+      Mushroom3_Walk_22: 6016002934876140291
+      Mushroom3_Walk_23: 8810274056469296777
+      Mushroom3_Walk_3: -3554654827459035546
+      Mushroom3_Walk_4: -899085052786718093
+      Mushroom3_Walk_5: -208237361963707982
+      Mushroom3_Walk_6: -5318329696251783757
+      Mushroom3_Walk_7: -8006346714156045384
+      Mushroom3_Walk_8: -783603613964218305
+      Mushroom3_Walk_9: 6513403811479615736
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
