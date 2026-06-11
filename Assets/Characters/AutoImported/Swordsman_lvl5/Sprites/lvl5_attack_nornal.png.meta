@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: 3c7a53c17e238d5488642982ac45b1d8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5409878456668705574
+    second: lvl5_attack_nornal_0
+  - first:
+      213: -4895194432146438997
+    second: lvl5_attack_nornal_1
+  - first:
+      213: 5265733239792228616
+    second: lvl5_attack_nornal_2
+  - first:
+      213: -5585543627421646777
+    second: lvl5_attack_nornal_3
+  - first:
+      213: -8383480725906646242
+    second: lvl5_attack_nornal_4
+  - first:
+      213: 633593405425735746
+    second: lvl5_attack_nornal_5
+  - first:
+      213: 8929918563230750238
+    second: lvl5_attack_nornal_6
+  - first:
+      213: 8605463490439922070
+    second: lvl5_attack_nornal_7
+  - first:
+      213: -5467647508837064107
+    second: lvl5_attack_nornal_8
+  - first:
+      213: 5066798603625110739
+    second: lvl5_attack_nornal_9
+  - first:
+      213: -9182116724870097544
+    second: lvl5_attack_nornal_10
+  - first:
+      213: -969147089504750423
+    second: lvl5_attack_nornal_11
+  - first:
+      213: -1272521340737372243
+    second: lvl5_attack_nornal_12
+  - first:
+      213: 2748738181360911279
+    second: lvl5_attack_nornal_13
+  - first:
+      213: 559694178391358819
+    second: lvl5_attack_nornal_14
+  - first:
+      213: -3065559474003954614
+    second: lvl5_attack_nornal_15
+  - first:
+      213: 287497639985434972
+    second: lvl5_attack_nornal_16
+  - first:
+      213: -7208605534818099234
+    second: lvl5_attack_nornal_17
+  - first:
+      213: -3376708995776789491
+    second: lvl5_attack_nornal_18
+  - first:
+      213: 4831589951300436051
+    second: lvl5_attack_nornal_19
+  - first:
+      213: 3339614898785110317
+    second: lvl5_attack_nornal_20
+  - first:
+      213: -2918245613709599879
+    second: lvl5_attack_nornal_21
+  - first:
+      213: -3730408678025491746
+    second: lvl5_attack_nornal_22
+  - first:
+      213: 1491467077153840126
+    second: lvl5_attack_nornal_23
+  - first:
+      213: 1495489689098108744
+    second: lvl5_attack_nornal_24
+  - first:
+      213: 2012811946741960679
+    second: lvl5_attack_nornal_25
+  - first:
+      213: 8386396371868691314
+    second: lvl5_attack_nornal_26
+  - first:
+      213: 1811280546214008686
+    second: lvl5_attack_nornal_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lvl5_attack_nornal_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623d6c72bcfb31b40800000000000000
+      internalID: 5409878456668705574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl5_attack_nornal_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 211
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4017d8996c01cb0800000000000000
+      internalID: -4895194432146438997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl5_attack_nornal_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 211
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80958c78b74a31940800000000000000
+      internalID: 5265733239792228616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl5_attack_nornal_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 208
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74006121aa92c72b0800000000000000
+      internalID: -5585543627421646777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl5_attack_nornal_4
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 211
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b100782b4e7ab80800000000000000
+      internalID: -8383480725906646242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl5_attack_nornal_5
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 211
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2485e6668d9fac800800000000000000
+      internalID: 633593405425735746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl5_attack_nornal_6
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 211
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16198ade917deb70800000000000000
+      internalID: 8929918563230750238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl5_attack_nornal_7
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 147
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691c34b637fbc6770800000000000000
+      internalID: 8605463490439922070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl5_attack_nornal_8
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 147
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552a7be3f830f14b0800000000000000
+      internalID: -5467647508837064107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl5_attack_nornal_9
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 147
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc15852c72e05640800000000000000
+      internalID: 5066798603625110739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl5_attack_nornal_10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 147
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875d1f7dc71929080800000000000000
+      internalID: -9182116724870097544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl5_attack_nornal_11
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 147
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a437fa5bd5ec82f0800000000000000
+      internalID: -969147089504750423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl5_attack_nornal_12
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 147
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dafbe3c2598175ee0800000000000000
+      internalID: -1272521340737372243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl5_attack_nornal_13
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 147
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa3029000da752620800000000000000
+      internalID: 2748738181360911279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl5_attack_nornal_14
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 81
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36dfeddc3ee64c700800000000000000
+      internalID: 559694178391358819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl5_attack_nornal_15
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 83
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44392286e1f475d0800000000000000
+      internalID: -3065559474003954614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl5_attack_nornal_16
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 80
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51581194956df300800000000000000
+      internalID: 287497639985434972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl5_attack_nornal_17
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 78
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf904b7573e5fb90800000000000000
+      internalID: -7208605534818099234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl5_attack_nornal_18
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 83
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04cbd41f058321d0800000000000000
+      internalID: -3376708995776789491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl5_attack_nornal_19
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 83
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3500c9b36714d0340800000000000000
+      internalID: 4831589951300436051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl5_attack_nornal_20
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 83
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2940b07e02b85e20800000000000000
+      internalID: 3339614898785110317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl5_attack_nornal_21
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 16
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b5f7b631f4087d0800000000000000
+      internalID: -2918245613709599879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl5_attack_nornal_22
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 19
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda8147621dea3cc0800000000000000
+      internalID: -3730408678025491746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl5_attack_nornal_23
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 19
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efbd1ff8761c2b410800000000000000
+      internalID: 1491467077153840126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl5_attack_nornal_24
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 19
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84fb3f3e2fb01c410800000000000000
+      internalID: 1495489689098108744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl5_attack_nornal_25
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 18
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef873d1dc1feeb10800000000000000
+      internalID: 2012811946741960679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl5_attack_nornal_26
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 16
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27babd23117726470800000000000000
+      internalID: 8386396371868691314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl5_attack_nornal_27
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 19
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6759a96f06f22910800000000000000
+      internalID: 1811280546214008686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lvl5_attack_nornal_0: 5409878456668705574
+      lvl5_attack_nornal_1: -4895194432146438997
+      lvl5_attack_nornal_10: -9182116724870097544
+      lvl5_attack_nornal_11: -969147089504750423
+      lvl5_attack_nornal_12: -1272521340737372243
+      lvl5_attack_nornal_13: 2748738181360911279
+      lvl5_attack_nornal_14: 559694178391358819
+      lvl5_attack_nornal_15: -3065559474003954614
+      lvl5_attack_nornal_16: 287497639985434972
+      lvl5_attack_nornal_17: -7208605534818099234
+      lvl5_attack_nornal_18: -3376708995776789491
+      lvl5_attack_nornal_19: 4831589951300436051
+      lvl5_attack_nornal_2: 5265733239792228616
+      lvl5_attack_nornal_20: 3339614898785110317
+      lvl5_attack_nornal_21: -2918245613709599879
+      lvl5_attack_nornal_22: -3730408678025491746
+      lvl5_attack_nornal_23: 1491467077153840126
+      lvl5_attack_nornal_24: 1495489689098108744
+      lvl5_attack_nornal_25: 2012811946741960679
+      lvl5_attack_nornal_26: 8386396371868691314
+      lvl5_attack_nornal_27: 1811280546214008686
+      lvl5_attack_nornal_3: -5585543627421646777
+      lvl5_attack_nornal_4: -8383480725906646242
+      lvl5_attack_nornal_5: 633593405425735746
+      lvl5_attack_nornal_6: 8929918563230750238
+      lvl5_attack_nornal_7: 8605463490439922070
+      lvl5_attack_nornal_8: -5467647508837064107
+      lvl5_attack_nornal_9: 5066798603625110739
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

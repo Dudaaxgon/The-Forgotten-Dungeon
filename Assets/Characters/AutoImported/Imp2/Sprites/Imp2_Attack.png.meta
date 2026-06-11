@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: 790c18194aedb134ab960060031ea13d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2730888001919541801
+    second: Imp2_Attack_0
+  - first:
+      213: -7569477890603660479
+    second: Imp2_Attack_1
+  - first:
+      213: -1286288023419420502
+    second: Imp2_Attack_2
+  - first:
+      213: -2861669156814453035
+    second: Imp2_Attack_3
+  - first:
+      213: -5109523471293950578
+    second: Imp2_Attack_4
+  - first:
+      213: 2069364371421460836
+    second: Imp2_Attack_5
+  - first:
+      213: -7673087582088615462
+    second: Imp2_Attack_6
+  - first:
+      213: 6019787581263398629
+    second: Imp2_Attack_7
+  - first:
+      213: 1332962504273871933
+    second: Imp2_Attack_8
+  - first:
+      213: 2563751387964309614
+    second: Imp2_Attack_9
+  - first:
+      213: -2076435059694657904
+    second: Imp2_Attack_10
+  - first:
+      213: 7610483318182781049
+    second: Imp2_Attack_11
+  - first:
+      213: 5909961863377313484
+    second: Imp2_Attack_12
+  - first:
+      213: 865360678992515114
+    second: Imp2_Attack_13
+  - first:
+      213: 8286746479463125117
+    second: Imp2_Attack_14
+  - first:
+      213: -4033150119882602308
+    second: Imp2_Attack_15
+  - first:
+      213: -2561379444151596721
+    second: Imp2_Attack_16
+  - first:
+      213: 7048815386150118429
+    second: Imp2_Attack_17
+  - first:
+      213: 2300779457574926314
+    second: Imp2_Attack_18
+  - first:
+      213: 9116593348301968952
+    second: Imp2_Attack_19
+  - first:
+      213: -2553873359440974723
+    second: Imp2_Attack_20
+  - first:
+      213: 7398056254740676522
+    second: Imp2_Attack_21
+  - first:
+      213: 1504929645176011943
+    second: Imp2_Attack_22
+  - first:
+      213: -5215706625810109033
+    second: Imp2_Attack_23
+  - first:
+      213: 1301026525847611934
+    second: Imp2_Attack_24
+  - first:
+      213: 414166698328815187
+    second: Imp2_Attack_25
+  - first:
+      213: 2546509932497956972
+    second: Imp2_Attack_26
+  - first:
+      213: -4982224076324603338
+    second: Imp2_Attack_27
+  - first:
+      213: 8343402620999928320
+    second: Imp2_Attack_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Imp2_Attack_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 212
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd9534c4dfe91ad0800000000000000
+      internalID: -2730888001919541801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 212
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b456b96ffc3f690800000000000000
+      internalID: -7569477890603660479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 212
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa00f359bdf262ee0800000000000000
+      internalID: -1286288023419420502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 201
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6026b401f4948d0800000000000000
+      internalID: -2861669156814453035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Attack_4
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 204
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85d00a69735719b0800000000000000
+      internalID: -5109523471293950578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Attack_5
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 198
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469fc6d8eebd7bc10800000000000000
+      internalID: 2069364371421460836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Attack_6
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 199
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9a5237f77b38590800000000000000
+      internalID: -7673087582088615462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Attack_7
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 148
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6438439e49a8350800000000000000
+      internalID: 6019787581263398629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Attack_8
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 148
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34c826d552af7210800000000000000
+      internalID: 1332962504273871933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Attack_9
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 143
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e600704dd46449320800000000000000
+      internalID: 2563751387964309614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Attack_10
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 142
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e9bbb80550f23e0800000000000000
+      internalID: -2076435059694657904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Attack_11
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 172
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970225d714edd9960800000000000000
+      internalID: 7610483318182781049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Attack_12
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 177
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cced5be9007640250800000000000000
+      internalID: 5909961863377313484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Attack_13
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 144
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2090f1e3f0620c00800000000000000
+      internalID: 865360678992515114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Attack_14
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 148
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d705e1c9400700370800000000000000
+      internalID: 8286746479463125117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Attack_15
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 84
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8c292a55f5708c0800000000000000
+      internalID: -4033150119882602308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Attack_16
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 84
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f494b5067f6247cd0800000000000000
+      internalID: -2561379444151596721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Attack_17
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 84
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1429ca5f3c62d160800000000000000
+      internalID: 7048815386150118429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Attack_18
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 83
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7f4430ab20eef10800000000000000
+      internalID: 2300779457574926314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Attack_19
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 85
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8365a373955a48e70800000000000000
+      internalID: 9116593348301968952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Attack_20
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 81
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7cef29e5b1de8cd0800000000000000
+      internalID: -2553873359440974723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Attack_21
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 80
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aafbc2497fc2ba660800000000000000
+      internalID: 7398056254740676522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Attack_22
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 20
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7acbba0f98592e410800000000000000
+      internalID: 1504929645176011943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Attack_23
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 20
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79defe335761e97b0800000000000000
+      internalID: -5215706625810109033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Attack_24
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 20
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ae18c6bbc2e0210800000000000000
+      internalID: 1301026525847611934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Attack_25
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 19
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3567fa3fa6a6fb500800000000000000
+      internalID: 414166698328815187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Attack_26
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 17
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c607b87aa45075320800000000000000
+      internalID: 2546509932497956972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Attack_27
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 21
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63af54b79959bdab0800000000000000
+      internalID: -4982224076324603338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Attack_28
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 16
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a83c28a78b9c370800000000000000
+      internalID: 8343402620999928320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Imp2_Attack_0: -2730888001919541801
+      Imp2_Attack_1: -7569477890603660479
+      Imp2_Attack_10: -2076435059694657904
+      Imp2_Attack_11: 7610483318182781049
+      Imp2_Attack_12: 5909961863377313484
+      Imp2_Attack_13: 865360678992515114
+      Imp2_Attack_14: 8286746479463125117
+      Imp2_Attack_15: -4033150119882602308
+      Imp2_Attack_16: -2561379444151596721
+      Imp2_Attack_17: 7048815386150118429
+      Imp2_Attack_18: 2300779457574926314
+      Imp2_Attack_19: 9116593348301968952
+      Imp2_Attack_2: -1286288023419420502
+      Imp2_Attack_20: -2553873359440974723
+      Imp2_Attack_21: 7398056254740676522
+      Imp2_Attack_22: 1504929645176011943
+      Imp2_Attack_23: -5215706625810109033
+      Imp2_Attack_24: 1301026525847611934
+      Imp2_Attack_25: 414166698328815187
+      Imp2_Attack_26: 2546509932497956972
+      Imp2_Attack_27: -4982224076324603338
+      Imp2_Attack_28: 8343402620999928320
+      Imp2_Attack_3: -2861669156814453035
+      Imp2_Attack_4: -5109523471293950578
+      Imp2_Attack_5: 2069364371421460836
+      Imp2_Attack_6: -7673087582088615462
+      Imp2_Attack_7: 6019787581263398629
+      Imp2_Attack_8: 1332962504273871933
+      Imp2_Attack_9: 2563751387964309614
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: 3a5e97cc6d9e5b34cb8205601521bac2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6953535765242057572
+    second: Beholder3_Hurt_0
+  - first:
+      213: 5339525785529434132
+    second: Beholder3_Hurt_1
+  - first:
+      213: -3114980552687456461
+    second: Beholder3_Hurt_2
+  - first:
+      213: 1404094382974243213
+    second: Beholder3_Hurt_3
+  - first:
+      213: 203751784082146798
+    second: Beholder3_Hurt_4
+  - first:
+      213: 5753968590645681215
+    second: Beholder3_Hurt_5
+  - first:
+      213: 7843964298978541527
+    second: Beholder3_Hurt_6
+  - first:
+      213: 834695917078509616
+    second: Beholder3_Hurt_7
+  - first:
+      213: -8858221158957404254
+    second: Beholder3_Hurt_8
+  - first:
+      213: -2636360092647605682
+    second: Beholder3_Hurt_9
+  - first:
+      213: 294629891944621143
+    second: Beholder3_Hurt_10
+  - first:
+      213: -9163482429970311922
+    second: Beholder3_Hurt_11
+  - first:
+      213: 7810550135100303734
+    second: Beholder3_Hurt_12
+  - first:
+      213: 6127825138893917386
+    second: Beholder3_Hurt_13
+  - first:
+      213: -5846927818937170850
+    second: Beholder3_Hurt_14
+  - first:
+      213: 9058711194786786127
+    second: Beholder3_Hurt_15
+  - first:
+      213: 5249463026513943207
+    second: Beholder3_Hurt_16
+  - first:
+      213: 8274027032591315350
+    second: Beholder3_Hurt_17
+  - first:
+      213: -4296843909339885015
+    second: Beholder3_Hurt_18
+  - first:
+      213: -8072599245191001393
+    second: Beholder3_Hurt_19
+  - first:
+      213: -7091384199554264735
+    second: Beholder3_Hurt_20
+  - first:
+      213: -7553772807239878021
+    second: Beholder3_Hurt_21
+  - first:
+      213: -8630974112733338518
+    second: Beholder3_Hurt_22
+  - first:
+      213: 2599302400987392645
+    second: Beholder3_Hurt_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Beholder3_Hurt_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 198
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4631a34efebef7060800000000000000
+      internalID: 6953535765242057572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Hurt_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 195
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4104583796ec91a40800000000000000
+      internalID: 5339525785529434132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Hurt_2
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 193
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f60d2f0bd55c4d0800000000000000
+      internalID: -3114980552687456461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Hurt_3
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 194
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d811d40f6685c7310800000000000000
+      internalID: 1404094382974243213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Hurt_4
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 193
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee581980b2fd3d200800000000000000
+      internalID: 203751784082146798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Hurt_5
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 195
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3cd03682f33adf40800000000000000
+      internalID: 5753968590645681215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Hurt_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 134
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df367788fb5bdc60800000000000000
+      internalID: 7843964298978541527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Hurt_7
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 131
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038fee0a38f659b00800000000000000
+      internalID: 834695917078509616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Hurt_8
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 129
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2afae7ee9c6411580800000000000000
+      internalID: -8858221158957404254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Hurt_9
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 130
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a39b9b674c96bd0800000000000000
+      internalID: -2636360092647605682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Hurt_10
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 129
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7542291635cb61400800000000000000
+      internalID: 294629891944621143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Hurt_11
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 131
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e051618b745c4d080800000000000000
+      internalID: -9163482429970311922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Hurt_12
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 70
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679680f37f5a46c60800000000000000
+      internalID: 7810550135100303734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Hurt_13
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 68
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc0b794f786a0550800000000000000
+      internalID: 6127825138893917386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Hurt_14
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 67
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5486e4802a8bdea0800000000000000
+      internalID: -5846927818937170850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Hurt_15
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 68
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4bee1826d107bd70800000000000000
+      internalID: 9058711194786786127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Hurt_16
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 67
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa19ec4fc6d9d840800000000000000
+      internalID: 5249463026513943207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Hurt_17
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 68
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691b59b9fbf33d270800000000000000
+      internalID: 8274027032591315350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Hurt_18
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 5
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922de78ea3b8e54c0800000000000000
+      internalID: -4296843909339885015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Hurt_19
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcacd48c1cd58ff80800000000000000
+      internalID: -8072599245191001393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Hurt_20
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 0
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16110cb64a7569d90800000000000000
+      internalID: -7091384199554264735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Hurt_21
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a367647ab9b2790800000000000000
+      internalID: -7553772807239878021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Hurt_22
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 0
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64efe8f5ce983880800000000000000
+      internalID: -8630974112733338518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Hurt_23
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a6ca213c3921420800000000000000
+      internalID: 2599302400987392645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Beholder3_Hurt_0: 6953535765242057572
+      Beholder3_Hurt_1: 5339525785529434132
+      Beholder3_Hurt_10: 294629891944621143
+      Beholder3_Hurt_11: -9163482429970311922
+      Beholder3_Hurt_12: 7810550135100303734
+      Beholder3_Hurt_13: 6127825138893917386
+      Beholder3_Hurt_14: -5846927818937170850
+      Beholder3_Hurt_15: 9058711194786786127
+      Beholder3_Hurt_16: 5249463026513943207
+      Beholder3_Hurt_17: 8274027032591315350
+      Beholder3_Hurt_18: -4296843909339885015
+      Beholder3_Hurt_19: -8072599245191001393
+      Beholder3_Hurt_2: -3114980552687456461
+      Beholder3_Hurt_20: -7091384199554264735
+      Beholder3_Hurt_21: -7553772807239878021
+      Beholder3_Hurt_22: -8630974112733338518
+      Beholder3_Hurt_23: 2599302400987392645
+      Beholder3_Hurt_3: 1404094382974243213
+      Beholder3_Hurt_4: 203751784082146798
+      Beholder3_Hurt_5: 5753968590645681215
+      Beholder3_Hurt_6: 7843964298978541527
+      Beholder3_Hurt_7: 834695917078509616
+      Beholder3_Hurt_8: -8858221158957404254
+      Beholder3_Hurt_9: -2636360092647605682
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

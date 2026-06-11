@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: 1fa6daa023617a54488bb92a0eb56cfe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 901779316844454845
+    second: Imp3_Run_0
+  - first:
+      213: -2733428773021030792
+    second: Imp3_Run_1
+  - first:
+      213: -7307397030119640918
+    second: Imp3_Run_2
+  - first:
+      213: -3495111211067480346
+    second: Imp3_Run_3
+  - first:
+      213: -273799231780937306
+    second: Imp3_Run_4
+  - first:
+      213: -554260227035749513
+    second: Imp3_Run_5
+  - first:
+      213: 7254157500217764550
+    second: Imp3_Run_6
+  - first:
+      213: 6326705000431822973
+    second: Imp3_Run_7
+  - first:
+      213: -8505145981723041942
+    second: Imp3_Run_8
+  - first:
+      213: 1677453328042028844
+    second: Imp3_Run_9
+  - first:
+      213: -2124726551792174032
+    second: Imp3_Run_10
+  - first:
+      213: 5907821842292301446
+    second: Imp3_Run_11
+  - first:
+      213: -7117696552383014072
+    second: Imp3_Run_12
+  - first:
+      213: 1753345583816299960
+    second: Imp3_Run_13
+  - first:
+      213: -7744171316424354045
+    second: Imp3_Run_14
+  - first:
+      213: 256784449259975639
+    second: Imp3_Run_15
+  - first:
+      213: 1527849214998320427
+    second: Imp3_Run_16
+  - first:
+      213: -2511185585283635307
+    second: Imp3_Run_17
+  - first:
+      213: 7331552356762044783
+    second: Imp3_Run_18
+  - first:
+      213: 2778070713454487456
+    second: Imp3_Run_19
+  - first:
+      213: 7110085796618037492
+    second: Imp3_Run_20
+  - first:
+      213: 5731512734552797917
+    second: Imp3_Run_21
+  - first:
+      213: 7114102044484653308
+    second: Imp3_Run_22
+  - first:
+      213: -3034814532169244589
+    second: Imp3_Run_23
+  - first:
+      213: -3983580988829373817
+    second: Imp3_Run_24
+  - first:
+      213: 6950063378199361805
+    second: Imp3_Run_25
+  - first:
+      213: -7676798046559185213
+    second: Imp3_Run_26
+  - first:
+      213: -3708538189024442650
+    second: Imp3_Run_27
+  - first:
+      213: 1625277827981871196
+    second: Imp3_Run_28
+  - first:
+      213: 1848491003755427629
+    second: Imp3_Run_29
+  - first:
+      213: -7390200482770322686
+    second: Imp3_Run_30
+  - first:
+      213: 3769737042642176758
+    second: Imp3_Run_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Imp3_Run_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 215
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3ee46c283c38c00800000000000000
+      internalID: 901779316844454845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp3_Run_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 215
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876ef356309e01ad0800000000000000
+      internalID: -2733428773021030792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp3_Run_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 211
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa079fa0e19e69a90800000000000000
+      internalID: -7307397030119640918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp3_Run_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 215
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e666d51fdede7fc0800000000000000
+      internalID: -3495111211067480346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp3_Run_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 213
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a12ce1ac05433cf0800000000000000
+      internalID: -273799231780937306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp3_Run_5
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 212
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7732866924fde48f0800000000000000
+      internalID: -554260227035749513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp3_Run_6
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 215
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca2731ffc1fba460800000000000000
+      internalID: 7254157500217764550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp3_Run_7
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 213
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d782d657da8fcc750800000000000000
+      internalID: 6326705000431822973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp3_Run_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 151
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f9e84bac6a7f980800000000000000
+      internalID: -8505145981723041942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp3_Run_9
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 151
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2fed311ae2874710800000000000000
+      internalID: 1677453328042028844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp3_Run_10
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 147
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c369b55747382e0800000000000000
+      internalID: -2124726551792174032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp3_Run_11
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 151
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e50222aacccf150800000000000000
+      internalID: 5907821842292301446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp3_Run_12
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 149
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b103062bcd83d90800000000000000
+      internalID: -7117696552383014072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp3_Run_13
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 148
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5ded3d482255810800000000000000
+      internalID: 1753345583816299960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp3_Run_14
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 151
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307d1c4d73d278490800000000000000
+      internalID: -7744171316424354045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp3_Run_15
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 149
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d33cf99818409300800000000000000
+      internalID: 256784449259975639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp3_Run_16
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 87
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25955224c2043510800000000000000
+      internalID: 1527849214998320427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp3_Run_17
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 87
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5976618d30a762dd0800000000000000
+      internalID: -2511185585283635307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp3_Run_18
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 83
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69caf43608eeb560800000000000000
+      internalID: 7331552356762044783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp3_Run_19
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 87
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7ee545890bd8620800000000000000
+      internalID: 2778070713454487456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp3_Run_20
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 85
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8e7f57c591ca260800000000000000
+      internalID: 7110085796618037492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp3_Run_21
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 84
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2b5a8177c6a8f40800000000000000
+      internalID: 5731512734552797917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp3_Run_22
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 87
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf053690e1e5ab260800000000000000
+      internalID: 7114102044484653308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp3_Run_23
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 85
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350ebda134c22e5d0800000000000000
+      internalID: -3034814532169244589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp3_Run_24
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 23
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a63d2523a77b8c0800000000000000
+      internalID: -3983580988829373817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp3_Run_25
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 23
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d093608c1d5937060800000000000000
+      internalID: 6950063378199361805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp3_Run_26
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 19
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c65d6e99d8867590800000000000000
+      internalID: -7676798046559185213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp3_Run_27
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 23
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e64a3f6a20a88cc0800000000000000
+      internalID: -3708538189024442650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp3_Run_28
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 21
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c588d2ec2952e8610800000000000000
+      internalID: 1625277827981871196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp3_Run_29
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 20
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27f85136c827a910800000000000000
+      internalID: 1848491003755427629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp3_Run_30
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 23
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20bfd8dd0dbb07990800000000000000
+      internalID: -7390200482770322686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp3_Run_31
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 21
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa815b0edbc05430800000000000000
+      internalID: 3769737042642176758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Imp3_Run_0: 901779316844454845
+      Imp3_Run_1: -2733428773021030792
+      Imp3_Run_10: -2124726551792174032
+      Imp3_Run_11: 5907821842292301446
+      Imp3_Run_12: -7117696552383014072
+      Imp3_Run_13: 1753345583816299960
+      Imp3_Run_14: -7744171316424354045
+      Imp3_Run_15: 256784449259975639
+      Imp3_Run_16: 1527849214998320427
+      Imp3_Run_17: -2511185585283635307
+      Imp3_Run_18: 7331552356762044783
+      Imp3_Run_19: 2778070713454487456
+      Imp3_Run_2: -7307397030119640918
+      Imp3_Run_20: 7110085796618037492
+      Imp3_Run_21: 5731512734552797917
+      Imp3_Run_22: 7114102044484653308
+      Imp3_Run_23: -3034814532169244589
+      Imp3_Run_24: -3983580988829373817
+      Imp3_Run_25: 6950063378199361805
+      Imp3_Run_26: -7676798046559185213
+      Imp3_Run_27: -3708538189024442650
+      Imp3_Run_28: 1625277827981871196
+      Imp3_Run_29: 1848491003755427629
+      Imp3_Run_3: -3495111211067480346
+      Imp3_Run_30: -7390200482770322686
+      Imp3_Run_31: 3769737042642176758
+      Imp3_Run_4: -273799231780937306
+      Imp3_Run_5: -554260227035749513
+      Imp3_Run_6: 7254157500217764550
+      Imp3_Run_7: 6326705000431822973
+      Imp3_Run_8: -8505145981723041942
+      Imp3_Run_9: 1677453328042028844
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

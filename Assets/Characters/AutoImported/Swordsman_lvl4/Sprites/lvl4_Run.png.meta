@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: 8ec6d24e226935a4cab15557135a6d96
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2764125293673735451
+    second: lvl4_Run_0
+  - first:
+      213: 4644238031283162427
+    second: lvl4_Run_1
+  - first:
+      213: -6963434788695935850
+    second: lvl4_Run_2
+  - first:
+      213: -882703501423123279
+    second: lvl4_Run_3
+  - first:
+      213: -9176275594597527943
+    second: lvl4_Run_4
+  - first:
+      213: 3654436392886407958
+    second: lvl4_Run_5
+  - first:
+      213: -2626198628338700429
+    second: lvl4_Run_6
+  - first:
+      213: -532187981973268012
+    second: lvl4_Run_7
+  - first:
+      213: -7179561798924507840
+    second: lvl4_Run_8
+  - first:
+      213: -7865647599812705251
+    second: lvl4_Run_9
+  - first:
+      213: -797257418758956581
+    second: lvl4_Run_10
+  - first:
+      213: 8105891049501172147
+    second: lvl4_Run_11
+  - first:
+      213: 4249900239087222015
+    second: lvl4_Run_12
+  - first:
+      213: 690284844925644302
+    second: lvl4_Run_13
+  - first:
+      213: -1859661809009909634
+    second: lvl4_Run_14
+  - first:
+      213: 1237434641623958821
+    second: lvl4_Run_15
+  - first:
+      213: 4129598627614807625
+    second: lvl4_Run_16
+  - first:
+      213: 35270817162587876
+    second: lvl4_Run_17
+  - first:
+      213: 539203133925497919
+    second: lvl4_Run_18
+  - first:
+      213: 8195987766483854383
+    second: lvl4_Run_19
+  - first:
+      213: 1994506910419373570
+    second: lvl4_Run_20
+  - first:
+      213: -2924458840250525885
+    second: lvl4_Run_21
+  - first:
+      213: -5541123206827655053
+    second: lvl4_Run_22
+  - first:
+      213: -4993782277934258263
+    second: lvl4_Run_23
+  - first:
+      213: 3691347176016818897
+    second: lvl4_Run_24
+  - first:
+      213: -5555877275110747881
+    second: lvl4_Run_25
+  - first:
+      213: 1684301069284363384
+    second: lvl4_Run_26
+  - first:
+      213: -2759469829106349748
+    second: lvl4_Run_27
+  - first:
+      213: 480332467913503419
+    second: lvl4_Run_28
+  - first:
+      213: -4897074967147604464
+    second: lvl4_Run_29
+  - first:
+      213: -7539815925531650454
+    second: lvl4_Run_30
+  - first:
+      213: -7647906755056712236
+    second: lvl4_Run_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lvl4_Run_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 211
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea97ebb0bad3a9d0800000000000000
+      internalID: -2764125293673735451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl4_Run_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 210
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d0efa12e5a37040800000000000000
+      internalID: 4644238031283162427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl4_Run_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 210
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6947e2b14f8ec5f90800000000000000
+      internalID: -6963434788695935850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl4_Run_3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 211
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b46eab97d100c3f0800000000000000
+      internalID: -882703501423123279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl4_Run_4
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 210
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e8de6f6f157a080800000000000000
+      internalID: -9176275594597527943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl4_Run_5
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 209
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613114c898a27b230800000000000000
+      internalID: 3654436392886407958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl4_Run_6
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 211
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37fe040034edd8bd0800000000000000
+      internalID: -2626198628338700429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl4_Run_7
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 213
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d950cc99d94d98f0800000000000000
+      internalID: -532187981973268012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl4_Run_8
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 147
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045e32435921d5c90800000000000000
+      internalID: -7179561798924507840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl4_Run_9
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 147
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1482c49e2b97d290800000000000000
+      internalID: -7865647599812705251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl4_Run_10
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 147
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9d3580a929fe4f0800000000000000
+      internalID: -797257418758956581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl4_Run_11
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 149
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1298176f8ed7070800000000000000
+      internalID: 8105891049501172147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl4_Run_12
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 147
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc34a120cdaafa30800000000000000
+      internalID: 4249900239087222015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl4_Run_13
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 147
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ee0afb862649900800000000000000
+      internalID: 690284844925644302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl4_Run_14
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 147
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70aa9700772136e0800000000000000
+      internalID: -1859661809009909634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl4_Run_15
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 149
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52542c610404c2110800000000000000
+      internalID: 1237434641623958821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl4_Run_16
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 83
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946dbef72184f4930800000000000000
+      internalID: 4129598627614807625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl4_Run_17
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 81
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eee9ef0f9e4d7000800000000000000
+      internalID: 35270817162587876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl4_Run_18
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 82
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c186bb462ab7700800000000000000
+      internalID: 539203133925497919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl4_Run_19
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 83
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24a7bc037ffdb170800000000000000
+      internalID: 8195987766483854383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl4_Run_20
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 82
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ecb99b779edab10800000000000000
+      internalID: 1994506910419373570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl4_Run_21
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 80
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347dd92ed2c3a67d0800000000000000
+      internalID: -2924458840250525885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl4_Run_22
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 82
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3704d503dc9f913b0800000000000000
+      internalID: -5541123206827655053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl4_Run_23
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 84
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a76616f97582bab0800000000000000
+      internalID: -4993782277934258263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl4_Run_24
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 19
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2bf11f2bc4a3330800000000000000
+      internalID: 3691347176016818897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl4_Run_25
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 18
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711db59fd0f85e2b0800000000000000
+      internalID: -5555877275110747881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl4_Run_26
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 16
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c418116e6df5710800000000000000
+      internalID: 1684301069284363384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl4_Run_27
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 17
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4945bb8fc464b9d0800000000000000
+      internalID: -2759469829106349748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl4_Run_28
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 19
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2321ca5db7aa600800000000000000
+      internalID: 480332467913503419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl4_Run_29
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 17
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01695b063481a0cb0800000000000000
+      internalID: -4897074967147604464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl4_Run_30
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 16
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a665ad60d513d5790800000000000000
+      internalID: -7539815925531650454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl4_Run_31
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 18
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5c88d935d2dd590800000000000000
+      internalID: -7647906755056712236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lvl4_Run_0: -2764125293673735451
+      lvl4_Run_1: 4644238031283162427
+      lvl4_Run_10: -797257418758956581
+      lvl4_Run_11: 8105891049501172147
+      lvl4_Run_12: 4249900239087222015
+      lvl4_Run_13: 690284844925644302
+      lvl4_Run_14: -1859661809009909634
+      lvl4_Run_15: 1237434641623958821
+      lvl4_Run_16: 4129598627614807625
+      lvl4_Run_17: 35270817162587876
+      lvl4_Run_18: 539203133925497919
+      lvl4_Run_19: 8195987766483854383
+      lvl4_Run_2: -6963434788695935850
+      lvl4_Run_20: 1994506910419373570
+      lvl4_Run_21: -2924458840250525885
+      lvl4_Run_22: -5541123206827655053
+      lvl4_Run_23: -4993782277934258263
+      lvl4_Run_24: 3691347176016818897
+      lvl4_Run_25: -5555877275110747881
+      lvl4_Run_26: 1684301069284363384
+      lvl4_Run_27: -2759469829106349748
+      lvl4_Run_28: 480332467913503419
+      lvl4_Run_29: -4897074967147604464
+      lvl4_Run_3: -882703501423123279
+      lvl4_Run_30: -7539815925531650454
+      lvl4_Run_31: -7647906755056712236
+      lvl4_Run_4: -9176275594597527943
+      lvl4_Run_5: 3654436392886407958
+      lvl4_Run_6: -2626198628338700429
+      lvl4_Run_7: -532187981973268012
+      lvl4_Run_8: -7179561798924507840
+      lvl4_Run_9: -7865647599812705251
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

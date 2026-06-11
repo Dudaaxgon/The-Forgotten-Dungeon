@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: 1e4dce0d0e23a07498b3f0215bfc8519
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5422006279723743529
+    second: lvl7_Walk_Attack_normal_0
+  - first:
+      213: 8573195793180299725
+    second: lvl7_Walk_Attack_normal_1
+  - first:
+      213: -5952512662688761878
+    second: lvl7_Walk_Attack_normal_2
+  - first:
+      213: 4434216456000475502
+    second: lvl7_Walk_Attack_normal_3
+  - first:
+      213: 8303255507641627080
+    second: lvl7_Walk_Attack_normal_4
+  - first:
+      213: 8547180778690904421
+    second: lvl7_Walk_Attack_normal_5
+  - first:
+      213: 5813991714812809623
+    second: lvl7_Walk_Attack_normal_6
+  - first:
+      213: 6386398027450279242
+    second: lvl7_Walk_Attack_normal_7
+  - first:
+      213: -2669309718515854388
+    second: lvl7_Walk_Attack_normal_8
+  - first:
+      213: -572348379313368130
+    second: lvl7_Walk_Attack_normal_9
+  - first:
+      213: 1080115267794315343
+    second: lvl7_Walk_Attack_normal_10
+  - first:
+      213: -2436930653648779511
+    second: lvl7_Walk_Attack_normal_11
+  - first:
+      213: -1838431938406168776
+    second: lvl7_Walk_Attack_normal_12
+  - first:
+      213: -7330849788385071492
+    second: lvl7_Walk_Attack_normal_13
+  - first:
+      213: -1488037256798913330
+    second: lvl7_Walk_Attack_normal_14
+  - first:
+      213: -8050587155694348365
+    second: lvl7_Walk_Attack_normal_15
+  - first:
+      213: 6238037357841731103
+    second: lvl7_Walk_Attack_normal_16
+  - first:
+      213: 929110077100386165
+    second: lvl7_Walk_Attack_normal_17
+  - first:
+      213: -2119333803843503291
+    second: lvl7_Walk_Attack_normal_18
+  - first:
+      213: 3186419721791854713
+    second: lvl7_Walk_Attack_normal_19
+  - first:
+      213: -8117273374751163934
+    second: lvl7_Walk_Attack_normal_20
+  - first:
+      213: -5500481248001616620
+    second: lvl7_Walk_Attack_normal_21
+  - first:
+      213: 6635624321778638499
+    second: lvl7_Walk_Attack_normal_22
+  - first:
+      213: 6499023419368331479
+    second: lvl7_Walk_Attack_normal_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lvl7_Walk_Attack_normal_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 211
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6012ff30a21c4b0800000000000000
+      internalID: -5422006279723743529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Walk_Attack_normal_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 211
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc19262b62c1af670800000000000000
+      internalID: 8573195793180299725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Walk_Attack_normal_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 210
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7fb63654d646da0800000000000000
+      internalID: -5952512662688761878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Walk_Attack_normal_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 211
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61991d8f50898d30800000000000000
+      internalID: 4434216456000475502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Walk_Attack_normal_4
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 211
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1f84444e61b3370800000000000000
+      internalID: 8303255507641627080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Walk_Attack_normal_5
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 211
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5610be022afad9670800000000000000
+      internalID: 8547180778690904421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Walk_Attack_normal_6
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 147
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7915b7829a27fa050800000000000000
+      internalID: 5813991714812809623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Walk_Attack_normal_7
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 147
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45ed6c5b2b01a850800000000000000
+      internalID: 6386398027450279242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Walk_Attack_normal_8
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 147
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc35d5024f4b4fad0800000000000000
+      internalID: -2669309718515854388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Walk_Attack_normal_9
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 147
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb391437e2c9e08f0800000000000000
+      internalID: -572348379313368130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Walk_Attack_normal_10
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 147
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f482b550d175dfe00800000000000000
+      internalID: 1080115267794315343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Walk_Attack_normal_11
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 147
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907010f5b784e2ed0800000000000000
+      internalID: -2436930653648779511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Walk_Attack_normal_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 83
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837419774e39c76e0800000000000000
+      internalID: -1838431938406168776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Walk_Attack_normal_13
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 83
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e6f8d35f6934a90800000000000000
+      internalID: -7330849788385071492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Walk_Attack_normal_14
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 83
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc34f7bffd695be0800000000000000
+      internalID: -1488037256798913330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Walk_Attack_normal_15
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 83
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7148fb2a1964090800000000000000
+      internalID: -8050587155694348365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Walk_Attack_normal_16
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 83
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ec5c92de5f19650800000000000000
+      internalID: 6238037357841731103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Walk_Attack_normal_17
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 83
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577edc641bcd4ec00800000000000000
+      internalID: 929110077100386165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Walk_Attack_normal_18
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 18
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b3e65522d9692e0800000000000000
+      internalID: -2119333803843503291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Walk_Attack_normal_19
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 19
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978d3b6cadf683c20800000000000000
+      internalID: 3186419721791854713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Walk_Attack_normal_20
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 19
+        width: 53
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e978317fd6a95f80800000000000000
+      internalID: -8117273374751163934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Walk_Attack_normal_21
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 19
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4159a2f927d5aa3b0800000000000000
+      internalID: -5500481248001616620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Walk_Attack_normal_22
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 19
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aede82e929761c50800000000000000
+      internalID: 6635624321778638499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Walk_Attack_normal_23
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 19
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8d46add5b213a50800000000000000
+      internalID: 6499023419368331479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lvl7_Walk_Attack_normal_0: -5422006279723743529
+      lvl7_Walk_Attack_normal_1: 8573195793180299725
+      lvl7_Walk_Attack_normal_10: 1080115267794315343
+      lvl7_Walk_Attack_normal_11: -2436930653648779511
+      lvl7_Walk_Attack_normal_12: -1838431938406168776
+      lvl7_Walk_Attack_normal_13: -7330849788385071492
+      lvl7_Walk_Attack_normal_14: -1488037256798913330
+      lvl7_Walk_Attack_normal_15: -8050587155694348365
+      lvl7_Walk_Attack_normal_16: 6238037357841731103
+      lvl7_Walk_Attack_normal_17: 929110077100386165
+      lvl7_Walk_Attack_normal_18: -2119333803843503291
+      lvl7_Walk_Attack_normal_19: 3186419721791854713
+      lvl7_Walk_Attack_normal_2: -5952512662688761878
+      lvl7_Walk_Attack_normal_20: -8117273374751163934
+      lvl7_Walk_Attack_normal_21: -5500481248001616620
+      lvl7_Walk_Attack_normal_22: 6635624321778638499
+      lvl7_Walk_Attack_normal_23: 6499023419368331479
+      lvl7_Walk_Attack_normal_3: 4434216456000475502
+      lvl7_Walk_Attack_normal_4: 8303255507641627080
+      lvl7_Walk_Attack_normal_5: 8547180778690904421
+      lvl7_Walk_Attack_normal_6: 5813991714812809623
+      lvl7_Walk_Attack_normal_7: 6386398027450279242
+      lvl7_Walk_Attack_normal_8: -2669309718515854388
+      lvl7_Walk_Attack_normal_9: -572348379313368130
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

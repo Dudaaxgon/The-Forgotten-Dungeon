@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: 74365dd3c01a936419ffeaa7f7b83b5c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2712300492238877266
+    second: Gnoll2_Death_0
+  - first:
+      213: 9001830211804916500
+    second: Gnoll2_Death_1
+  - first:
+      213: 3708711749314657301
+    second: Gnoll2_Death_2
+  - first:
+      213: 3481348872593480324
+    second: Gnoll2_Death_3
+  - first:
+      213: 3978780820385447850
+    second: Gnoll2_Death_4
+  - first:
+      213: -199161105816779505
+    second: Gnoll2_Death_5
+  - first:
+      213: -3800631483930491699
+    second: Gnoll2_Death_6
+  - first:
+      213: 1181948513940322148
+    second: Gnoll2_Death_7
+  - first:
+      213: -3500474382823304296
+    second: Gnoll2_Death_8
+  - first:
+      213: -8377109240123119176
+    second: Gnoll2_Death_9
+  - first:
+      213: -1526907994126591536
+    second: Gnoll2_Death_10
+  - first:
+      213: -3867632563633142150
+    second: Gnoll2_Death_11
+  - first:
+      213: 4466908894474091104
+    second: Gnoll2_Death_12
+  - first:
+      213: -5303260347617926450
+    second: Gnoll2_Death_13
+  - first:
+      213: -6311592640077322491
+    second: Gnoll2_Death_14
+  - first:
+      213: -3003909430820848389
+    second: Gnoll2_Death_15
+  - first:
+      213: -7822661993249100471
+    second: Gnoll2_Death_16
+  - first:
+      213: 5337589787956436692
+    second: Gnoll2_Death_17
+  - first:
+      213: -6416959534485628365
+    second: Gnoll2_Death_18
+  - first:
+      213: -8944075173371643601
+    second: Gnoll2_Death_19
+  - first:
+      213: 4467271636905078
+    second: Gnoll2_Death_20
+  - first:
+      213: -8461091381459220227
+    second: Gnoll2_Death_21
+  - first:
+      213: -3988071793084479761
+    second: Gnoll2_Death_22
+  - first:
+      213: -2064442716753365910
+    second: Gnoll2_Death_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gnoll2_Death_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 212
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead0cfb9219fb5ad0800000000000000
+      internalID: -2712300492238877266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnoll2_Death_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 212
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41be20742ececec70800000000000000
+      internalID: 9001830211804916500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnoll2_Death_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 212
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51cb738bfadf77330800000000000000
+      internalID: 3708711749314657301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnoll2_Death_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 212
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a142aca5c305030800000000000000
+      internalID: 3481348872593480324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnoll2_Death_4
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 204
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf363e5318773730800000000000000
+      internalID: 3978780820385447850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnoll2_Death_5
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 204
+        width: 47
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0587ba87007c3df0800000000000000
+      internalID: -199161105816779505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnoll2_Death_6
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 148
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4482e4dc1714bc0800000000000000
+      internalID: -3800631483930491699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnoll2_Death_7
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 147
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467b63449ef176010800000000000000
+      internalID: 1181948513940322148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnoll2_Death_8
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 145
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893567a5811db6fc0800000000000000
+      internalID: -3500474382823304296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnoll2_Death_9
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 148
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9a1d9a7878ebb80800000000000000
+      internalID: -8377109240123119176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnoll2_Death_10
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 147
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9516de4455fcae0800000000000000
+      internalID: -1526907994126591536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnoll2_Death_11
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 144
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76c9eacca8635ac0800000000000000
+      internalID: -3867632563633142150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnoll2_Death_12
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 84
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a392b09f5adfd30800000000000000
+      internalID: 4466908894474091104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnoll2_Death_13
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 84
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2a1dccfc80766b0800000000000000
+      internalID: -5303260347617926450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnoll2_Death_14
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 84
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507a8312fe7b868a0800000000000000
+      internalID: -6311592640077322491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnoll2_Death_15
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 84
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc3a7eb948ff46d0800000000000000
+      internalID: -3003909430820848389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnoll2_Death_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 84
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d20760d52507390800000000000000
+      internalID: -7822661993249100471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnoll2_Death_17
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 81
+        width: 41
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de55e3e1ade21a40800000000000000
+      internalID: 5337589787956436692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnoll2_Death_18
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 20
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a9de84d4162f6a0800000000000000
+      internalID: -6416959534485628365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnoll2_Death_19
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 20
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29face740340e380800000000000000
+      internalID: -8944075173371643601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnoll2_Death_20
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 20
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c680bb5fedf0000800000000000000
+      internalID: 4467271636905078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnoll2_Death_21
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 20
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df80104a73a249a80800000000000000
+      internalID: -8461091381459220227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnoll2_Death_22
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 20
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6c17a75d587a8c0800000000000000
+      internalID: -3988071793084479761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnoll2_Death_23
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 17
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64f5c87940a953e0800000000000000
+      internalID: -2064442716753365910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Gnoll2_Death_0: -2712300492238877266
+      Gnoll2_Death_1: 9001830211804916500
+      Gnoll2_Death_10: -1526907994126591536
+      Gnoll2_Death_11: -3867632563633142150
+      Gnoll2_Death_12: 4466908894474091104
+      Gnoll2_Death_13: -5303260347617926450
+      Gnoll2_Death_14: -6311592640077322491
+      Gnoll2_Death_15: -3003909430820848389
+      Gnoll2_Death_16: -7822661993249100471
+      Gnoll2_Death_17: 5337589787956436692
+      Gnoll2_Death_18: -6416959534485628365
+      Gnoll2_Death_19: -8944075173371643601
+      Gnoll2_Death_2: 3708711749314657301
+      Gnoll2_Death_20: 4467271636905078
+      Gnoll2_Death_21: -8461091381459220227
+      Gnoll2_Death_22: -3988071793084479761
+      Gnoll2_Death_23: -2064442716753365910
+      Gnoll2_Death_3: 3481348872593480324
+      Gnoll2_Death_4: 3978780820385447850
+      Gnoll2_Death_5: -199161105816779505
+      Gnoll2_Death_6: -3800631483930491699
+      Gnoll2_Death_7: 1181948513940322148
+      Gnoll2_Death_8: -3500474382823304296
+      Gnoll2_Death_9: -8377109240123119176
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

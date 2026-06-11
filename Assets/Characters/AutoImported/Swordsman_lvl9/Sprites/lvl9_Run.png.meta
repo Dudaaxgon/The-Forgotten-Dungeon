@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: bdbce0df6250770429d89b9b5e577c2f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5591087004952708716
+    second: lvl9_Run_0
+  - first:
+      213: 331464332040065756
+    second: lvl9_Run_1
+  - first:
+      213: 2253362932565604063
+    second: lvl9_Run_2
+  - first:
+      213: 738702538538330476
+    second: lvl9_Run_3
+  - first:
+      213: -708249218423522317
+    second: lvl9_Run_4
+  - first:
+      213: -1205639787870845357
+    second: lvl9_Run_5
+  - first:
+      213: -891062582323333886
+    second: lvl9_Run_6
+  - first:
+      213: 7008651214843321778
+    second: lvl9_Run_7
+  - first:
+      213: 8022357088986438362
+    second: lvl9_Run_8
+  - first:
+      213: 1584586733007468029
+    second: lvl9_Run_9
+  - first:
+      213: 839943589668892146
+    second: lvl9_Run_10
+  - first:
+      213: 9107553188404323903
+    second: lvl9_Run_11
+  - first:
+      213: -7451628835370507445
+    second: lvl9_Run_12
+  - first:
+      213: -3574590224534928822
+    second: lvl9_Run_13
+  - first:
+      213: 2877928652905345040
+    second: lvl9_Run_14
+  - first:
+      213: -1428869387625851802
+    second: lvl9_Run_15
+  - first:
+      213: -7896568660162595326
+    second: lvl9_Run_16
+  - first:
+      213: 3869427454531408538
+    second: lvl9_Run_17
+  - first:
+      213: 579078505707861353
+    second: lvl9_Run_18
+  - first:
+      213: 8650823544271759496
+    second: lvl9_Run_19
+  - first:
+      213: 4621376798803628291
+    second: lvl9_Run_20
+  - first:
+      213: 3490063938022229022
+    second: lvl9_Run_21
+  - first:
+      213: 5461795589356047290
+    second: lvl9_Run_22
+  - first:
+      213: 2458312011435180039
+    second: lvl9_Run_23
+  - first:
+      213: -1180197931503195544
+    second: lvl9_Run_24
+  - first:
+      213: 2110424090056486456
+    second: lvl9_Run_25
+  - first:
+      213: 7755139883775498305
+    second: lvl9_Run_26
+  - first:
+      213: -5835261589782679104
+    second: lvl9_Run_27
+  - first:
+      213: 8443992909857207557
+    second: lvl9_Run_28
+  - first:
+      213: 6159063029773685054
+    second: lvl9_Run_29
+  - first:
+      213: -740050917547759649
+    second: lvl9_Run_30
+  - first:
+      213: 942088555455568254
+    second: lvl9_Run_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lvl9_Run_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 211
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6642861208879d40800000000000000
+      internalID: 5591087004952708716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_Run_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 211
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2d5f6cd09999400800000000000000
+      internalID: 331464332040065756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_Run_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 211
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6fa99f5ad854f10800000000000000
+      internalID: 2253362932565604063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_Run_3
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 214
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69a1448b06604a00800000000000000
+      internalID: 738702538538330476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_Run_4
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 211
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbfa6b961bcb26f0800000000000000
+      internalID: -708249218423522317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_Run_5
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 211
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35681ec2005b44fe0800000000000000
+      internalID: -1205639787870845357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_Run_6
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 211
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205b9fb6d4f42a3f0800000000000000
+      internalID: -891062582323333886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_Run_7
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 213
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd985f752bb34160800000000000000
+      internalID: 7008651214843321778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_Run_8
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 147
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada9f56a443255f60800000000000000
+      internalID: 8022357088986438362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_Run_9
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 147
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5f4b8fc359df510800000000000000
+      internalID: 1584586733007468029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_Run_10
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 147
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fda49d9e3418ab00800000000000000
+      internalID: 839943589668892146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_Run_11
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 149
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36e0d7fe57846e70800000000000000
+      internalID: 9107553188404323903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_Run_12
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 147
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43eeadfd0f769890800000000000000
+      internalID: -7451628835370507445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_Run_13
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 147
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4203093121846ec0800000000000000
+      internalID: -3574590224534928822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_Run_14
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 147
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0107755acd470f720800000000000000
+      internalID: 2877928652905345040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_Run_15
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 149
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6649128ccd2ab2ce0800000000000000
+      internalID: -1428869387625851802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_Run_16
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 83
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206b68234a0c96290800000000000000
+      internalID: -7896568660162595326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_Run_17
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 83
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a921d7fc4c7f2b530800000000000000
+      internalID: 3869427454531408538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_Run_18
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 83
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965f7c535dc490800800000000000000
+      internalID: 579078505707861353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_Run_19
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 85
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88867e2fd26ed0870800000000000000
+      internalID: 8650823544271759496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_Run_20
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 83
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3011ce1a6bd622040800000000000000
+      internalID: 4621376798803628291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_Run_21
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 83
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14473519a23f6030800000000000000
+      internalID: 3490063938022229022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_Run_22
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 83
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abbcc5396223ccb40800000000000000
+      internalID: 5461795589356047290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_Run_23
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 85
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7008bacefbdad1220800000000000000
+      internalID: 2458312011435180039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_Run_24
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 21
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ae918fb381f9fe0800000000000000
+      internalID: -1180197931503195544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_Run_25
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 19
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e6e35478bb94d10800000000000000
+      internalID: 2110424090056486456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_Run_26
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 19
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14817e3c2aacf9b60800000000000000
+      internalID: 7755139883775498305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_Run_27
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 19
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1b589208cf40fa0800000000000000
+      internalID: -5835261589782679104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_Run_28
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 22
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505b4f530d61f2570800000000000000
+      internalID: 8443992909857207557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_Run_29
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 19
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31d6e68133697550800000000000000
+      internalID: 6159063029773685054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_Run_30
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 19
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd72dd78c9fcab5f0800000000000000
+      internalID: -740050917547759649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl9_Run_31
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 19
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79d3eebc88f21d00800000000000000
+      internalID: 942088555455568254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lvl9_Run_0: 5591087004952708716
+      lvl9_Run_1: 331464332040065756
+      lvl9_Run_10: 839943589668892146
+      lvl9_Run_11: 9107553188404323903
+      lvl9_Run_12: -7451628835370507445
+      lvl9_Run_13: -3574590224534928822
+      lvl9_Run_14: 2877928652905345040
+      lvl9_Run_15: -1428869387625851802
+      lvl9_Run_16: -7896568660162595326
+      lvl9_Run_17: 3869427454531408538
+      lvl9_Run_18: 579078505707861353
+      lvl9_Run_19: 8650823544271759496
+      lvl9_Run_2: 2253362932565604063
+      lvl9_Run_20: 4621376798803628291
+      lvl9_Run_21: 3490063938022229022
+      lvl9_Run_22: 5461795589356047290
+      lvl9_Run_23: 2458312011435180039
+      lvl9_Run_24: -1180197931503195544
+      lvl9_Run_25: 2110424090056486456
+      lvl9_Run_26: 7755139883775498305
+      lvl9_Run_27: -5835261589782679104
+      lvl9_Run_28: 8443992909857207557
+      lvl9_Run_29: 6159063029773685054
+      lvl9_Run_3: 738702538538330476
+      lvl9_Run_30: -740050917547759649
+      lvl9_Run_31: 942088555455568254
+      lvl9_Run_4: -708249218423522317
+      lvl9_Run_5: -1205639787870845357
+      lvl9_Run_6: -891062582323333886
+      lvl9_Run_7: 7008651214843321778
+      lvl9_Run_8: 8022357088986438362
+      lvl9_Run_9: 1584586733007468029
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

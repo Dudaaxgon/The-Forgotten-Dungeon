@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: 11a808d7b650d344a9eea18f349780a9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 537989315398676267
+    second: Ghost2_Run_0
+  - first:
+      213: -120773185012783754
+    second: Ghost2_Run_1
+  - first:
+      213: 1236294719709971081
+    second: Ghost2_Run_2
+  - first:
+      213: -3767790275977749737
+    second: Ghost2_Run_3
+  - first:
+      213: 2547240934409376285
+    second: Ghost2_Run_4
+  - first:
+      213: -1047612643140461912
+    second: Ghost2_Run_5
+  - first:
+      213: -2028733461776167227
+    second: Ghost2_Run_6
+  - first:
+      213: 8067865749283498514
+    second: Ghost2_Run_7
+  - first:
+      213: 5499516945480829471
+    second: Ghost2_Run_8
+  - first:
+      213: 10988538833214180
+    second: Ghost2_Run_9
+  - first:
+      213: 6264211318275063929
+    second: Ghost2_Run_10
+  - first:
+      213: -586002977608954691
+    second: Ghost2_Run_11
+  - first:
+      213: -7591767266367618677
+    second: Ghost2_Run_12
+  - first:
+      213: -7876881779073193895
+    second: Ghost2_Run_13
+  - first:
+      213: 8087221195047294355
+    second: Ghost2_Run_14
+  - first:
+      213: 2257923204417342860
+    second: Ghost2_Run_15
+  - first:
+      213: 1989544286881395304
+    second: Ghost2_Run_16
+  - first:
+      213: 5647245388894697908
+    second: Ghost2_Run_17
+  - first:
+      213: -7732114841503288273
+    second: Ghost2_Run_18
+  - first:
+      213: -8217480257064920894
+    second: Ghost2_Run_19
+  - first:
+      213: 6914603430122659762
+    second: Ghost2_Run_20
+  - first:
+      213: 8886127578277482370
+    second: Ghost2_Run_21
+  - first:
+      213: 2917296442782472508
+    second: Ghost2_Run_22
+  - first:
+      213: -4511530592634790086
+    second: Ghost2_Run_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ghost2_Run_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 217
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f2b459e62577700800000000000000
+      internalID: 537989315398676267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost2_Run_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 218
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675abe89d6de25ef0800000000000000
+      internalID: -120773185012783754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost2_Run_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 218
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98201065f73382110800000000000000
+      internalID: 1236294719709971081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost2_Run_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 218
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71bdc24e4be16bbc0800000000000000
+      internalID: -3767790275977749737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost2_Run_4
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 214
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d121ecc422e995320800000000000000
+      internalID: 2547240934409376285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost2_Run_5
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 213
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa976ff9d12671f0800000000000000
+      internalID: -1047612643140461912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost2_Run_6
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 153
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce02ea4aad78d3e0800000000000000
+      internalID: -2028733461776167227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost2_Run_7
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 154
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a65915721d6ff60800000000000000
+      internalID: 8067865749283498514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost2_Run_8
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 154
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a40a33685325c40800000000000000
+      internalID: 5499516945480829471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost2_Run_9
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 154
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea11c1940a072000800000000000000
+      internalID: 10988538833214180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost2_Run_10
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 149
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97044c73103fee650800000000000000
+      internalID: 6264211318275063929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost2_Run_11
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 148
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc0c4a85691ed7f0800000000000000
+      internalID: -586002977608954691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost2_Run_12
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 88
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8148b6e4ef94a690800000000000000
+      internalID: -7591767266367618677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost2_Run_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 88
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958689461c1bfa290800000000000000
+      internalID: -7876881779073193895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost2_Run_14
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 89
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395ddc634d49b3070800000000000000
+      internalID: 8087221195047294355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost2_Run_15
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 93
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d48610131c55f10800000000000000
+      internalID: 2257923204417342860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost2_Run_16
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 94
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8623974ecf74c9b10800000000000000
+      internalID: 1989544286881395304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost2_Run_17
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 91
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9f784c2cb0f5e40800000000000000
+      internalID: 5647245388894697908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost2_Run_18
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 24
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24bba5a48202b490800000000000000
+      internalID: -7732114841503288273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost2_Run_19
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 24
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c81cd88e35a5fd80800000000000000
+      internalID: -8217480257064920894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost2_Run_20
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 25
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf982f3f2b95ff50800000000000000
+      internalID: 6914603430122659762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost2_Run_21
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 29
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f0804a3fdd15b70800000000000000
+      internalID: 8886127578277482370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost2_Run_22
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 30
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c395f8088a15c7820800000000000000
+      internalID: 2917296442782472508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost2_Run_23
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 27
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f12b044d2d361c0800000000000000
+      internalID: -4511530592634790086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ghost2_Run_0: 537989315398676267
+      Ghost2_Run_1: -120773185012783754
+      Ghost2_Run_10: 6264211318275063929
+      Ghost2_Run_11: -586002977608954691
+      Ghost2_Run_12: -7591767266367618677
+      Ghost2_Run_13: -7876881779073193895
+      Ghost2_Run_14: 8087221195047294355
+      Ghost2_Run_15: 2257923204417342860
+      Ghost2_Run_16: 1989544286881395304
+      Ghost2_Run_17: 5647245388894697908
+      Ghost2_Run_18: -7732114841503288273
+      Ghost2_Run_19: -8217480257064920894
+      Ghost2_Run_2: 1236294719709971081
+      Ghost2_Run_20: 6914603430122659762
+      Ghost2_Run_21: 8886127578277482370
+      Ghost2_Run_22: 2917296442782472508
+      Ghost2_Run_23: -4511530592634790086
+      Ghost2_Run_3: -3767790275977749737
+      Ghost2_Run_4: 2547240934409376285
+      Ghost2_Run_5: -1047612643140461912
+      Ghost2_Run_6: -2028733461776167227
+      Ghost2_Run_7: 8067865749283498514
+      Ghost2_Run_8: 5499516945480829471
+      Ghost2_Run_9: 10988538833214180
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

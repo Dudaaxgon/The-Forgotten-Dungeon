@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: 3fe742e8cec91cf4ea21e9b314eb5921
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3423141623577531055
+    second: Gnoll1_Walk_0
+  - first:
+      213: 4235927361307985472
+    second: Gnoll1_Walk_1
+  - first:
+      213: -572703343887658903
+    second: Gnoll1_Walk_2
+  - first:
+      213: -3929229910117758486
+    second: Gnoll1_Walk_3
+  - first:
+      213: -3844019376331765394
+    second: Gnoll1_Walk_4
+  - first:
+      213: -771765120084710156
+    second: Gnoll1_Walk_5
+  - first:
+      213: 4617344046036809467
+    second: Gnoll1_Walk_6
+  - first:
+      213: 458665091828627970
+    second: Gnoll1_Walk_7
+  - first:
+      213: 8618798036631186773
+    second: Gnoll1_Walk_8
+  - first:
+      213: 9001059916701306786
+    second: Gnoll1_Walk_9
+  - first:
+      213: -6446163080716222369
+    second: Gnoll1_Walk_10
+  - first:
+      213: -5065780046698868076
+    second: Gnoll1_Walk_11
+  - first:
+      213: -3649428049749440068
+    second: Gnoll1_Walk_12
+  - first:
+      213: 8396088108176805006
+    second: Gnoll1_Walk_13
+  - first:
+      213: 6299696849362129760
+    second: Gnoll1_Walk_14
+  - first:
+      213: 1445818016141438644
+    second: Gnoll1_Walk_15
+  - first:
+      213: -6208632126816234300
+    second: Gnoll1_Walk_16
+  - first:
+      213: 2831626070853853277
+    second: Gnoll1_Walk_17
+  - first:
+      213: -2922775983841109850
+    second: Gnoll1_Walk_18
+  - first:
+      213: -6021703410359193253
+    second: Gnoll1_Walk_19
+  - first:
+      213: 192922771858412191
+    second: Gnoll1_Walk_20
+  - first:
+      213: -7250361720385596602
+    second: Gnoll1_Walk_21
+  - first:
+      213: 6951127472110614106
+    second: Gnoll1_Walk_22
+  - first:
+      213: 7399402520226559380
+    second: Gnoll1_Walk_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gnoll1_Walk_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 211
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15daec674de8e70d0800000000000000
+      internalID: -3423141623577531055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnoll1_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 212
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046ce110e7909ca30800000000000000
+      internalID: 4235927361307985472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnoll1_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 212
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960d5e1d7595d08f0800000000000000
+      internalID: -572703343887658903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnoll1_Walk_3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 211
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae94796f6329879c0800000000000000
+      internalID: -3929229910117758486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnoll1_Walk_4
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 212
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69c6046ebc47aac0800000000000000
+      internalID: -3844019376331765394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnoll1_Walk_5
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 212
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc605756b32a45f0800000000000000
+      internalID: -771765120084710156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnoll1_Walk_6
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 148
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6f9c532f9141040800000000000000
+      internalID: 4617344046036809467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnoll1_Walk_7
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 148
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a315d88718d5600800000000000000
+      internalID: 458665091828627970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnoll1_Walk_8
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 148
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d6c34662f1c9770800000000000000
+      internalID: 8618798036631186773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnoll1_Walk_9
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 148
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af0df8fd403aec70800000000000000
+      internalID: 9001059916701306786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnoll1_Walk_10
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 146
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f500ca1d4d0aa86a0800000000000000
+      internalID: -6446163080716222369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnoll1_Walk_11
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 148
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492904e13ebb2b9b0800000000000000
+      internalID: -5065780046698868076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnoll1_Walk_12
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 84
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb986553680aa5dc0800000000000000
+      internalID: -3649428049749440068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnoll1_Walk_13
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 84
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c82c666a5e48470800000000000000
+      internalID: 8396088108176805006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnoll1_Walk_14
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 84
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06390e248e40d6750800000000000000
+      internalID: 6299696849362129760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnoll1_Walk_15
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 84
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be68fd43d3901410800000000000000
+      internalID: 1445818016141438644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnoll1_Walk_16
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 84
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c45a04b9f186d9a0800000000000000
+      internalID: -6208632126816234300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnoll1_Walk_17
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 84
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50aaf9a8e4fb4720800000000000000
+      internalID: 2831626070853853277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnoll1_Walk_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 20
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a89b1d6ab63077d0800000000000000
+      internalID: -2922775983841109850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnoll1_Walk_19
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 20
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5138c217ac9e6ca0800000000000000
+      internalID: -6021703410359193253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnoll1_Walk_20
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 20
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9254b52d366da200800000000000000
+      internalID: 192922771858412191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnoll1_Walk_21
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 20
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643935bed6a816b90800000000000000
+      internalID: -7250361720385596602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnoll1_Walk_22
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 20
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56bc937b9d577060800000000000000
+      internalID: 6951127472110614106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnoll1_Walk_23
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 20
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495fb307365ffa660800000000000000
+      internalID: 7399402520226559380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Gnoll1_Walk_0: -3423141623577531055
+      Gnoll1_Walk_1: 4235927361307985472
+      Gnoll1_Walk_10: -6446163080716222369
+      Gnoll1_Walk_11: -5065780046698868076
+      Gnoll1_Walk_12: -3649428049749440068
+      Gnoll1_Walk_13: 8396088108176805006
+      Gnoll1_Walk_14: 6299696849362129760
+      Gnoll1_Walk_15: 1445818016141438644
+      Gnoll1_Walk_16: -6208632126816234300
+      Gnoll1_Walk_17: 2831626070853853277
+      Gnoll1_Walk_18: -2922775983841109850
+      Gnoll1_Walk_19: -6021703410359193253
+      Gnoll1_Walk_2: -572703343887658903
+      Gnoll1_Walk_20: 192922771858412191
+      Gnoll1_Walk_21: -7250361720385596602
+      Gnoll1_Walk_22: 6951127472110614106
+      Gnoll1_Walk_23: 7399402520226559380
+      Gnoll1_Walk_3: -3929229910117758486
+      Gnoll1_Walk_4: -3844019376331765394
+      Gnoll1_Walk_5: -771765120084710156
+      Gnoll1_Walk_6: 4617344046036809467
+      Gnoll1_Walk_7: 458665091828627970
+      Gnoll1_Walk_8: 8618798036631186773
+      Gnoll1_Walk_9: 9001059916701306786
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

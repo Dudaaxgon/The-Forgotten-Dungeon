@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: 6d674db96627c1c40a685d106c790171
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3662944567670533425
+    second: Lich2_Attack_0
+  - first:
+      213: 7041802733726244093
+    second: Lich2_Attack_1
+  - first:
+      213: -963781644102641248
+    second: Lich2_Attack_2
+  - first:
+      213: -1598913296329774806
+    second: Lich2_Attack_3
+  - first:
+      213: 5637247348391976550
+    second: Lich2_Attack_4
+  - first:
+      213: 6930735954215850272
+    second: Lich2_Attack_5
+  - first:
+      213: -8021331294312522421
+    second: Lich2_Attack_6
+  - first:
+      213: 91087963346144912
+    second: Lich2_Attack_7
+  - first:
+      213: -265637817703887925
+    second: Lich2_Attack_8
+  - first:
+      213: -3193293421658685134
+    second: Lich2_Attack_9
+  - first:
+      213: 2770627051047800591
+    second: Lich2_Attack_10
+  - first:
+      213: 5550193457685601809
+    second: Lich2_Attack_11
+  - first:
+      213: 5840721956264461929
+    second: Lich2_Attack_12
+  - first:
+      213: 6513813873267936149
+    second: Lich2_Attack_13
+  - first:
+      213: -2995065145009335306
+    second: Lich2_Attack_14
+  - first:
+      213: -8340418155999871255
+    second: Lich2_Attack_15
+  - first:
+      213: -2415549364289711509
+    second: Lich2_Attack_16
+  - first:
+      213: 9043546619347554595
+    second: Lich2_Attack_17
+  - first:
+      213: 3392315835308045301
+    second: Lich2_Attack_18
+  - first:
+      213: -8267348492171527441
+    second: Lich2_Attack_19
+  - first:
+      213: -4467071777544494870
+    second: Lich2_Attack_20
+  - first:
+      213: 7723294772183658331
+    second: Lich2_Attack_21
+  - first:
+      213: -33541970402074571
+    second: Lich2_Attack_22
+  - first:
+      213: 7635249990684348565
+    second: Lich2_Attack_23
+  - first:
+      213: 2421801239316980682
+    second: Lich2_Attack_24
+  - first:
+      213: -6278179009755011371
+    second: Lich2_Attack_25
+  - first:
+      213: 8673656027298182036
+    second: Lich2_Attack_26
+  - first:
+      213: -1658775080802713342
+    second: Lich2_Attack_27
+  - first:
+      213: -2884274943828400308
+    second: Lich2_Attack_28
+  - first:
+      213: 3777709372683626049
+    second: Lich2_Attack_29
+  - first:
+      213: -1026162291979160479
+    second: Lich2_Attack_30
+  - first:
+      213: -3481916630064703072
+    second: Lich2_Attack_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lich2_Attack_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 211
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc21d04a25b9a2dc0800000000000000
+      internalID: -3662944567670533425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich2_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 211
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc902af64289b160800000000000000
+      internalID: 7041802733726244093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich2_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 211
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9583673b5ff92f0800000000000000
+      internalID: -963781644102641248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich2_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 211
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a296d9114d48fc9e0800000000000000
+      internalID: -1598913296329774806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich2_Attack_4
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 211
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e9aef88968b3e40800000000000000
+      internalID: 5637247348391976550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich2_Attack_5
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 211
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021501731abee2060800000000000000
+      internalID: 6930735954215850272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich2_Attack_6
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 199
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d17c8cfa18ea090800000000000000
+      internalID: -8021331294312522421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich2_Attack_7
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 211
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e8f82250c934100800000000000000
+      internalID: 91087963346144912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich2_Attack_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 147
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb89dcefc3405cf0800000000000000
+      internalID: -265637817703887925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich2_Attack_9
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 147
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23141724d842fa3d0800000000000000
+      internalID: -3193293421658685134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich2_Attack_10
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 147
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0fcace9f9e337620800000000000000
+      internalID: 2770627051047800591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich2_Attack_11
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 147
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e1c082b8f360d40800000000000000
+      internalID: 5550193457685601809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich2_Attack_12
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 147
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966c7fa7ca96e0150800000000000000
+      internalID: 5840721956264461929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich2_Attack_13
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 147
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b8521c437b56a50800000000000000
+      internalID: 6513813873267936149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich2_Attack_14
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 147
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f390908e146f66d0800000000000000
+      internalID: -2995065145009335306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich2_Attack_15
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 147
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eeb86560e1e04c80800000000000000
+      internalID: -8340418155999871255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich2_Attack_16
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 83
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62571cb6ae3a7ed0800000000000000
+      internalID: -2415549364289711509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich2_Attack_17
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 83
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32155eb4cb1218d70800000000000000
+      internalID: 9043546619347554595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich2_Attack_18
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 83
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3f779674de31f20800000000000000
+      internalID: 3392315835308045301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich2_Attack_19
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 83
+        width: 20
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea31c1495a744d80800000000000000
+      internalID: -8267348492171527441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich2_Attack_20
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 82
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0a949c2e5c102c0800000000000000
+      internalID: -4467071777544494870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich2_Attack_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 83
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f63afeca7ae2b60800000000000000
+      internalID: 7723294772183658331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich2_Attack_22
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 82
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5302e1171c5d88ff0800000000000000
+      internalID: -33541970402074571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich2_Attack_23
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 82
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5909b0ac96bd5f960800000000000000
+      internalID: 7635249990684348565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich2_Attack_24
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 19
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3e61a5567fb9120800000000000000
+      internalID: 2421801239316980682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich2_Attack_25
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 19
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d62d3f247d6fd8a0800000000000000
+      internalID: -6278179009755011371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich2_Attack_26
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 19
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493b80ba3340f5870800000000000000
+      internalID: 8673656027298182036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich2_Attack_27
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 19
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2010c724ad8daf8e0800000000000000
+      internalID: -1658775080802713342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich2_Attack_28
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 18
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c476c8a583ff8f7d0800000000000000
+      internalID: -2884274943828400308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich2_Attack_29
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 19
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146a877c8ae1d6430800000000000000
+      internalID: 3777709372683626049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich2_Attack_30
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 18
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1647ea015d652c1f0800000000000000
+      internalID: -1026162291979160479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich2_Attack_31
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 18
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9d77fd54fbdafc0800000000000000
+      internalID: -3481916630064703072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Lich2_Attack_0: -3662944567670533425
+      Lich2_Attack_1: 7041802733726244093
+      Lich2_Attack_10: 2770627051047800591
+      Lich2_Attack_11: 5550193457685601809
+      Lich2_Attack_12: 5840721956264461929
+      Lich2_Attack_13: 6513813873267936149
+      Lich2_Attack_14: -2995065145009335306
+      Lich2_Attack_15: -8340418155999871255
+      Lich2_Attack_16: -2415549364289711509
+      Lich2_Attack_17: 9043546619347554595
+      Lich2_Attack_18: 3392315835308045301
+      Lich2_Attack_19: -8267348492171527441
+      Lich2_Attack_2: -963781644102641248
+      Lich2_Attack_20: -4467071777544494870
+      Lich2_Attack_21: 7723294772183658331
+      Lich2_Attack_22: -33541970402074571
+      Lich2_Attack_23: 7635249990684348565
+      Lich2_Attack_24: 2421801239316980682
+      Lich2_Attack_25: -6278179009755011371
+      Lich2_Attack_26: 8673656027298182036
+      Lich2_Attack_27: -1658775080802713342
+      Lich2_Attack_28: -2884274943828400308
+      Lich2_Attack_29: 3777709372683626049
+      Lich2_Attack_3: -1598913296329774806
+      Lich2_Attack_30: -1026162291979160479
+      Lich2_Attack_31: -3481916630064703072
+      Lich2_Attack_4: 5637247348391976550
+      Lich2_Attack_5: 6930735954215850272
+      Lich2_Attack_6: -8021331294312522421
+      Lich2_Attack_7: 91087963346144912
+      Lich2_Attack_8: -265637817703887925
+      Lich2_Attack_9: -3193293421658685134
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

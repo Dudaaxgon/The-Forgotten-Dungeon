@@ -1,0 +1,1105 @@
+fileFormatVersion: 2
+guid: afd7ff2034632f4459629461bdd96582
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3121456599683054050
+    second: lvl6_attack_0
+  - first:
+      213: 3682135263214033682
+    second: lvl6_attack_1
+  - first:
+      213: -2178963366164297125
+    second: lvl6_attack_2
+  - first:
+      213: 6897798120468519067
+    second: lvl6_attack_3
+  - first:
+      213: -5037056281019426221
+    second: lvl6_attack_4
+  - first:
+      213: -8624643796440120262
+    second: lvl6_attack_5
+  - first:
+      213: -2657586531048135943
+    second: lvl6_attack_6
+  - first:
+      213: 7085347720729374465
+    second: lvl6_attack_7
+  - first:
+      213: 6953675032195371526
+    second: lvl6_attack_8
+  - first:
+      213: -7483589571490954460
+    second: lvl6_attack_9
+  - first:
+      213: -9142960460015750936
+    second: lvl6_attack_10
+  - first:
+      213: -4267344579174235861
+    second: lvl6_attack_11
+  - first:
+      213: -8616143920457728004
+    second: lvl6_attack_12
+  - first:
+      213: 7688317982595185530
+    second: lvl6_attack_13
+  - first:
+      213: -290503128152183312
+    second: lvl6_attack_14
+  - first:
+      213: -8247134633450685368
+    second: lvl6_attack_15
+  - first:
+      213: -2849684473760796854
+    second: lvl6_attack_16
+  - first:
+      213: -2142300143964541429
+    second: lvl6_attack_17
+  - first:
+      213: -6627391979419198985
+    second: lvl6_attack_18
+  - first:
+      213: 5556198548471273257
+    second: lvl6_attack_19
+  - first:
+      213: 6104442880854070711
+    second: lvl6_attack_20
+  - first:
+      213: 1371982400612024273
+    second: lvl6_attack_21
+  - first:
+      213: 2881176241384711438
+    second: lvl6_attack_22
+  - first:
+      213: 5233794378255483944
+    second: lvl6_attack_23
+  - first:
+      213: -9108536824259403613
+    second: lvl6_attack_24
+  - first:
+      213: 3010172237549826117
+    second: lvl6_attack_25
+  - first:
+      213: -1334142694677214791
+    second: lvl6_attack_26
+  - first:
+      213: -1193429396746680004
+    second: lvl6_attack_27
+  - first:
+      213: -2090609543291294994
+    second: lvl6_attack_28
+  - first:
+      213: 1655984061871541263
+    second: lvl6_attack_29
+  - first:
+      213: -3239965452371042110
+    second: lvl6_attack_30
+  - first:
+      213: 2400125873765439036
+    second: lvl6_attack_31
+  - first:
+      213: 4501981095737196209
+    second: lvl6_attack_32
+  - first:
+      213: -697353793935889506
+    second: lvl6_attack_33
+  - first:
+      213: 3463313206928796271
+    second: lvl6_attack_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lvl6_attack_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 206
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16c712c2cb5ea4d0800000000000000
+      internalID: -3121456599683054050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_attack_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 211
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21bdfca5382991330800000000000000
+      internalID: 3682135263214033682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_attack_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 211
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a0035fc54c2c1e0800000000000000
+      internalID: -2178963366164297125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_attack_3
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 207
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9812ee28d6e9bf50800000000000000
+      internalID: 6897798120468519067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_attack_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 200
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35adf28fff7c81ab0800000000000000
+      internalID: -5037056281019426221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_attack_5
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 197
+        width: 43
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3409e6992c1f4880800000000000000
+      internalID: -8624643796440120262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_attack_6
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 211
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f26309612b5e1bd0800000000000000
+      internalID: -2657586531048135943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_attack_7
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 211
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10fa2345636345260800000000000000
+      internalID: 7085347720729374465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_attack_8
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 195
+        width: 38
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6021281899a608060800000000000000
+      internalID: 6953675032195371526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_attack_9
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 147
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 423c67a3fe2f42890800000000000000
+      internalID: -7483589571490954460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_attack_10
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 147
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0b15137edad1180800000000000000
+      internalID: -9142960460015750936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_attack_11
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 147
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b218120f6b857c4c0800000000000000
+      internalID: -4267344579174235861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_attack_12
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 147
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffb97f21ce4d6880800000000000000
+      internalID: -8616143920457728004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_attack_13
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 137
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b75d0887462ba60800000000000000
+      internalID: 7688317982595185530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_attack_14
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 140
+        width: 16
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd6950b1fce7fbf0800000000000000
+      internalID: -290503128152183312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_attack_15
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 147
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84cb95efeba4c8d80800000000000000
+      internalID: -8247134633450685368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_attack_16
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 142
+        width: 10
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4faa83c113e378d0800000000000000
+      internalID: -2849684473760796854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_attack_17
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 147
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ea9b49e550542e0800000000000000
+      internalID: -2142300143964541429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_attack_18
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 80
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9127fab16c604a0800000000000000
+      internalID: -6627391979419198985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_attack_19
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 83
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927db2f44259b1d40800000000000000
+      internalID: 5556198548471273257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_attack_20
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 82
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b518f8157657b450800000000000000
+      internalID: 6104442880854070711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_attack_21
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 77
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df319a69b24a0310800000000000000
+      internalID: 1371982400612024273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_attack_22
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 72
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05e703c68efbf720800000000000000
+      internalID: 2881176241384711438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_attack_23
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 83
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824ca57d14c22a840800000000000000
+      internalID: 5233794378255483944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_attack_24
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 76
+        width: 16
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a02476740af79180800000000000000
+      internalID: -9108536824259403613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_attack_25
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 83
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54076e393b746c920800000000000000
+      internalID: 3010172237549826117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_attack_26
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 78
+        width: 10
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9051ca94c2c7de0800000000000000
+      internalID: -1334142694677214791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_attack_27
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 19
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39c7666946107fe0800000000000000
+      internalID: -1193429396746680004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_attack_28
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 18
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeaa41862b9acf2e0800000000000000
+      internalID: -2090609543291294994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_attack_29
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 15
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ccf810bbc3bf610800000000000000
+      internalID: 1655984061871541263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_attack_30
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 47
+        width: 38
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0e2ee46945903d0800000000000000
+      internalID: -3239965452371042110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_attack_31
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 15
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36530a04c5fe4120800000000000000
+      internalID: 2400125873765439036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_attack_32
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 19
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be70fc34ff3a7e30800000000000000
+      internalID: 4501981095737196209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_attack_33
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 19
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b2ead4b608256f0800000000000000
+      internalID: -697353793935889506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl6_attack_34
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 19
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ae8e42309201030800000000000000
+      internalID: 3463313206928796271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lvl6_attack_0: -3121456599683054050
+      lvl6_attack_1: 3682135263214033682
+      lvl6_attack_10: -9142960460015750936
+      lvl6_attack_11: -4267344579174235861
+      lvl6_attack_12: -8616143920457728004
+      lvl6_attack_13: 7688317982595185530
+      lvl6_attack_14: -290503128152183312
+      lvl6_attack_15: -8247134633450685368
+      lvl6_attack_16: -2849684473760796854
+      lvl6_attack_17: -2142300143964541429
+      lvl6_attack_18: -6627391979419198985
+      lvl6_attack_19: 5556198548471273257
+      lvl6_attack_2: -2178963366164297125
+      lvl6_attack_20: 6104442880854070711
+      lvl6_attack_21: 1371982400612024273
+      lvl6_attack_22: 2881176241384711438
+      lvl6_attack_23: 5233794378255483944
+      lvl6_attack_24: -9108536824259403613
+      lvl6_attack_25: 3010172237549826117
+      lvl6_attack_26: -1334142694677214791
+      lvl6_attack_27: -1193429396746680004
+      lvl6_attack_28: -2090609543291294994
+      lvl6_attack_29: 1655984061871541263
+      lvl6_attack_3: 6897798120468519067
+      lvl6_attack_30: -3239965452371042110
+      lvl6_attack_31: 2400125873765439036
+      lvl6_attack_32: 4501981095737196209
+      lvl6_attack_33: -697353793935889506
+      lvl6_attack_34: 3463313206928796271
+      lvl6_attack_4: -5037056281019426221
+      lvl6_attack_5: -8624643796440120262
+      lvl6_attack_6: -2657586531048135943
+      lvl6_attack_7: 7085347720729374465
+      lvl6_attack_8: 6953675032195371526
+      lvl6_attack_9: -7483589571490954460
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

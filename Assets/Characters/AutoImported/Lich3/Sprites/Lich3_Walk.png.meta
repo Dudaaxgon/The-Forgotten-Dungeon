@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: e0458380377f8084eab42db772cdb4ba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2399918908671360458
+    second: Lich3_Walk_0
+  - first:
+      213: -5293592212893188873
+    second: Lich3_Walk_1
+  - first:
+      213: 5986620592146726040
+    second: Lich3_Walk_2
+  - first:
+      213: 4711239187455756683
+    second: Lich3_Walk_3
+  - first:
+      213: -2099974922069347994
+    second: Lich3_Walk_4
+  - first:
+      213: -3481126209482345057
+    second: Lich3_Walk_5
+  - first:
+      213: -1295292520479048174
+    second: Lich3_Walk_6
+  - first:
+      213: 3799527225448456931
+    second: Lich3_Walk_7
+  - first:
+      213: 867759304367585943
+    second: Lich3_Walk_8
+  - first:
+      213: 2775733455757429482
+    second: Lich3_Walk_9
+  - first:
+      213: 2119961358485880181
+    second: Lich3_Walk_10
+  - first:
+      213: 3312179309295380686
+    second: Lich3_Walk_11
+  - first:
+      213: -5191414239714102243
+    second: Lich3_Walk_12
+  - first:
+      213: 1898419425391219196
+    second: Lich3_Walk_13
+  - first:
+      213: -6909389237672846578
+    second: Lich3_Walk_14
+  - first:
+      213: -6922837858751240863
+    second: Lich3_Walk_15
+  - first:
+      213: -9189342792468022284
+    second: Lich3_Walk_16
+  - first:
+      213: -415705341381775887
+    second: Lich3_Walk_17
+  - first:
+      213: 8940035392226917698
+    second: Lich3_Walk_18
+  - first:
+      213: -6339354738404598408
+    second: Lich3_Walk_19
+  - first:
+      213: -1642826196206113237
+    second: Lich3_Walk_20
+  - first:
+      213: 6380202834051412821
+    second: Lich3_Walk_21
+  - first:
+      213: -5952381089338414855
+    second: Lich3_Walk_22
+  - first:
+      213: 6309701583483735700
+    second: Lich3_Walk_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lich3_Walk_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 209
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63286e6c776c1bed0800000000000000
+      internalID: -2399918908671360458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich3_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 211
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc3ab4dde16986b0800000000000000
+      internalID: -5293592212893188873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich3_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 211
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89cb1f7c5bfb41350800000000000000
+      internalID: 5986620592146726040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich3_Walk_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 209
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89433c641fa16140800000000000000
+      internalID: 4711239187455756683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich3_Walk_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 211
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661f3dc3fe36bd2e0800000000000000
+      internalID: -2099974922069347994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich3_Walk_5
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 211
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f95b081082e80bfc0800000000000000
+      internalID: -3481126209482345057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich3_Walk_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 147
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e30acb052360ee0800000000000000
+      internalID: -1295292520479048174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich3_Walk_7
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 147
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2e74b71e1aab430800000000000000
+      internalID: 3799527225448456931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich3_Walk_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 147
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79abe5f5d76ea0c00800000000000000
+      internalID: 867759304367585943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich3_Walk_9
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 147
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeac69d1fd2658620800000000000000
+      internalID: 2775733455757429482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich3_Walk_10
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 147
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57dfa1e9f9d9b6d10800000000000000
+      internalID: 2119961358485880181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich3_Walk_11
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 147
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec823fa788937fd20800000000000000
+      internalID: 3312179309295380686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich3_Walk_12
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 82
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14bfe7114464f7b0800000000000000
+      internalID: -5191414239714102243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich3_Walk_13
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 83
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1152db86a885a10800000000000000
+      internalID: 1898419425391219196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich3_Walk_14
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 83
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b5a99881bec10a0800000000000000
+      internalID: -6909389237672846578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich3_Walk_15
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 82
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165a18f65a32def90800000000000000
+      internalID: -6922837858751240863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich3_Walk_16
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 83
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbb5afda65e87080800000000000000
+      internalID: -9189342792468022284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich3_Walk_17
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 83
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fde4bbc13e1b3af0800000000000000
+      internalID: -415705341381775887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich3_Walk_18
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 19
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24dfa19a2d2611c70800000000000000
+      internalID: 8940035392226917698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich3_Walk_19
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 19
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d5438e3761608a0800000000000000
+      internalID: -6339354738404598408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich3_Walk_20
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 19
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ead6357428339e0800000000000000
+      internalID: -1642826196206113237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich3_Walk_21
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 19
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553339e7ca80b8850800000000000000
+      internalID: 6380202834051412821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich3_Walk_22
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 19
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f82b32bfe4e46da0800000000000000
+      internalID: -5952381089338414855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich3_Walk_23
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 19
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e8442f820909750800000000000000
+      internalID: 6309701583483735700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Lich3_Walk_0: -2399918908671360458
+      Lich3_Walk_1: -5293592212893188873
+      Lich3_Walk_10: 2119961358485880181
+      Lich3_Walk_11: 3312179309295380686
+      Lich3_Walk_12: -5191414239714102243
+      Lich3_Walk_13: 1898419425391219196
+      Lich3_Walk_14: -6909389237672846578
+      Lich3_Walk_15: -6922837858751240863
+      Lich3_Walk_16: -9189342792468022284
+      Lich3_Walk_17: -415705341381775887
+      Lich3_Walk_18: 8940035392226917698
+      Lich3_Walk_19: -6339354738404598408
+      Lich3_Walk_2: 5986620592146726040
+      Lich3_Walk_20: -1642826196206113237
+      Lich3_Walk_21: 6380202834051412821
+      Lich3_Walk_22: -5952381089338414855
+      Lich3_Walk_23: 6309701583483735700
+      Lich3_Walk_3: 4711239187455756683
+      Lich3_Walk_4: -2099974922069347994
+      Lich3_Walk_5: -3481126209482345057
+      Lich3_Walk_6: -1295292520479048174
+      Lich3_Walk_7: 3799527225448456931
+      Lich3_Walk_8: 867759304367585943
+      Lich3_Walk_9: 2775733455757429482
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
