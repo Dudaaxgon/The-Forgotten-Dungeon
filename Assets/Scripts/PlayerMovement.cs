@@ -1,0 +1,92 @@
+using UnityEngine;
+
+[DisallowMultipleComponent]
+[RequireComponent(typeof(Rigidbody2D))]
+[RequireComponent(typeof(Collider2D))]
+public class PlayerMovement : MonoBehaviour
+{
+    [SerializeField] public float speed = 3f;
+    [SerializeField] public Rigidbody2D rb;
+    [SerializeField] public Animator anim;
+    [SerializeField] public Vector2 movement;
+
+    private static readonly int Horizontal = Animator.StringToHash("Horizontal");
+    private static readonly int Vertical = Animator.StringToHash("Vertical");
+    private static readonly int Speed = Animator.StringToHash("Speed");
+
+    private Vector2 lastDirection = Vector2.down;
+
+    private void Reset()
+    {
+        rb = GetComponent<Rigidbody2D>();
+        anim = GetComponent<Animator>();
+        ConfigurePhysics();
+    }
+
+    private void Awake()
+    {
+        if (rb == null)
+        {
+            rb = GetComponent<Rigidbody2D>();
+        }
+
+        if (anim == null)
+        {
+            anim = GetComponent<Animator>();
+        }
+
+        ConfigurePhysics();
+    }
+
+    private void Update()
+    {
+        movement.x = Input.GetAxisRaw("Horizontal");
+        movement.y = Input.GetAxisRaw("Vertical");
+        movement = Vector2.ClampMagnitude(movement, 1f);
+
+        if (movement.sqrMagnitude > 0.001f)
+        {
+            lastDirection = movement.normalized;
+        }
+
+        UpdateAnimator();
+    }
+
+    private void FixedUpdate()
+    {
+        rb.MovePosition(rb.position + movement * speed * Time.fixedDeltaTime);
+    }
+
+    private void ConfigurePhysics()
+    {
+        rb.gravityScale = 0f;
+        rb.freezeRotation = true;
+        rb.interpolation = RigidbodyInterpolation2D.Interpolate;
+        rb.collisionDetectionMode = CollisionDetectionMode2D.Continuous;
+
+        var bodyCollider = GetComponent<Collider2D>();
+        if (bodyCollider == null)
+        {
+            var capsule = gameObject.AddComponent<CapsuleCollider2D>();
+            capsule.direction = CapsuleDirection2D.Vertical;
+            capsule.size = new Vector2(0.55f, 0.8f);
+            capsule.offset = new Vector2(0f, 0.05f);
+            bodyCollider = capsule;
+        }
+
+        bodyCollider.isTrigger = false;
+        bodyCollider.usedByComposite = false;
+    }
+
+    private void UpdateAnimator()
+    {
+        if (anim == null)
+        {
+            return;
+        }
+
+        anim.SetFloat(Horizontal, lastDirection.x);
+        anim.SetFloat(Vertical, lastDirection.y);
+        anim.SetFloat(Speed, movement.sqrMagnitude);
+    }
+}
