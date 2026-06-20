@@ -20,6 +20,11 @@ public class PlayerHealth : MonoBehaviour
     {
         animator = GetComponent<Animator>();
         currentHealth = maxHealth;
+
+        if (GetComponent<PlayerGameOver2D>() == null)
+        {
+            gameObject.AddComponent<PlayerGameOver2D>();
+        }
     }
 
     public bool TakeDamage(int amount, Vector2 sourcePosition)
@@ -29,8 +34,26 @@ public class PlayerHealth : MonoBehaviour
             return false;
         }
 
-        currentHealth = Mathf.Max(0, currentHealth - amount);
+        SetHealth(Mathf.Max(0, currentHealth - amount), sourcePosition);
         nextDamageTime = Time.time + damageImmunitySeconds;
+
+        return true;
+    }
+
+    public bool Kill(Vector2 sourcePosition)
+    {
+        if (IsDead)
+        {
+            return false;
+        }
+
+        SetHealth(0, sourcePosition);
+        return true;
+    }
+
+    private void SetHealth(int value, Vector2 sourcePosition)
+    {
+        currentHealth = Mathf.Clamp(value, 0, maxHealth);
         HealthChanged?.Invoke(currentHealth, maxHealth);
 
         var direction = (Vector2)transform.position - sourcePosition;
@@ -43,9 +66,13 @@ public class PlayerHealth : MonoBehaviour
             {
                 movement.enabled = false;
             }
-        }
 
-        return true;
+            var body = GetComponent<Rigidbody2D>();
+            if (body != null)
+            {
+                body.linearVelocity = Vector2.zero;
+            }
+        }
     }
 
     private void PlayDirectionalState(string action, Vector2 direction)

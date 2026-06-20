@@ -129,13 +129,14 @@ public static class TopDownPhysicsConfigurator
 
     private static void ConfigureSolidTilemap(GameObject tilemapObject)
     {
+        var isHazard = tilemapObject.GetComponent<InstantDeathZone2D>() != null;
         var tilemapCollider = tilemapObject.GetComponent<TilemapCollider2D>();
         if (tilemapCollider == null)
         {
             tilemapCollider = tilemapObject.AddComponent<TilemapCollider2D>();
         }
 
-        tilemapCollider.isTrigger = false;
+        tilemapCollider.isTrigger = isHazard;
         tilemapCollider.usedByComposite = true;
 
         var body = tilemapObject.GetComponent<Rigidbody2D>();
@@ -154,6 +155,6 @@ public static class TopDownPhysicsConfigurator
         }
 
         composite.geometryType = CompositeCollider2D.GeometryType.Polygons;
-        composite.isTrigger = false;
+        composite.isTrigger = isHazard;
     }
 }

@@ -41,9 +41,15 @@ public static class TopDownSceneCollisionBootstrap
         {
             foreach (var tilemap in root.GetComponentsInChildren<Tilemap>(true))
             {
+                if (tilemap.GetComponent<InstantDeathZone2D>() != null)
+                {
+                    ConfigureTilemap(tilemap.gameObject, true);
+                    continue;
+                }
+
                 if (ShouldBeSolid(tilemap.gameObject.name))
                 {
-                    ConfigureSolidTilemap(tilemap.gameObject);
+                    ConfigureTilemap(tilemap.gameObject, false);
                 }
             }
         }
@@ -63,7 +69,7 @@ public static class TopDownSceneCollisionBootstrap
         return false;
     }
 
-    private static void ConfigureSolidTilemap(GameObject tilemapObject)
+    private static void ConfigureTilemap(GameObject tilemapObject, bool isTrigger)
     {
         var tilemapCollider = tilemapObject.GetComponent<TilemapCollider2D>();
         if (tilemapCollider == null)
@@ -71,7 +77,7 @@ public static class TopDownSceneCollisionBootstrap
             tilemapCollider = tilemapObject.AddComponent<TilemapCollider2D>();
         }
 
-        tilemapCollider.isTrigger = false;
+        tilemapCollider.isTrigger = isTrigger;
         tilemapCollider.usedByComposite = true;
 
         var body = tilemapObject.GetComponent<Rigidbody2D>();
@@ -90,6 +96,6 @@ public static class TopDownSceneCollisionBootstrap
         }
 
         composite.geometryType = CompositeCollider2D.GeometryType.Polygons;
-        composite.isTrigger = false;
+        composite.isTrigger = isTrigger;
     }
 }

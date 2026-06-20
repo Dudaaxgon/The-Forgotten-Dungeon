@@ -42359,6 +42359,7 @@ GameObject:
   - component: {fileID: 1201165726}
   - component: {fileID: 1201165725}
   - component: {fileID: 1201165724}
+  - component: {fileID: 1201165727}
   m_Layer: 0
   m_Name: BuracosChao
   m_TagString: Untagged
@@ -126224,7 +126225,7 @@ TilemapCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 1
   m_CompositeOrder: 0
@@ -126291,7 +126292,7 @@ CompositeCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
@@ -127130,3 +127131,16 @@ CompositeCollider2D:
   m_OffsetDistance: 0.00005
   m_UseDelaunayMesh: 0
   m_CompositeGameObject: {fileID: 1201165720}
+
+--- !u!114 &1201165727
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1201165720}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4f32d79287f4fa48ec4aad67b3cb831, type: 3}
+  m_Name:
+  m_EditorClassIdentifier: Assembly-CSharp::InstantDeathZone2D
