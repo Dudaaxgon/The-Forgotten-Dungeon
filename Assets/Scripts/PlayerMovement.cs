@@ -10,11 +10,9 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] public Animator anim;
     [SerializeField] public Vector2 movement;
 
-    private static readonly int Horizontal = Animator.StringToHash("Horizontal");
-    private static readonly int Vertical = Animator.StringToHash("Vertical");
-    private static readonly int Speed = Animator.StringToHash("Speed");
-
     private Vector2 lastDirection = Vector2.down;
+
+    public Vector2 LastDirection => lastDirection;
 
     private void Reset()
     {
@@ -85,8 +83,23 @@ public class PlayerMovement : MonoBehaviour
             return;
         }
 
-        anim.SetFloat(Horizontal, lastDirection.x);
-        anim.SetFloat(Vertical, lastDirection.y);
-        anim.SetFloat(Speed, movement.sqrMagnitude);
+        var action = movement.sqrMagnitude > 0.001f ? "Walk" : "Idle";
+        var direction = GetDirectionName(lastDirection);
+        var stateName = $"{action}_{direction}";
+        var stateHash = Animator.StringToHash($"Base Layer.{stateName}");
+        if (anim.HasState(0, stateHash) && !anim.GetCurrentAnimatorStateInfo(0).IsName(stateName))
+        {
+            anim.Play(stateName);
+        }
+    }
+
+    private static string GetDirectionName(Vector2 direction)
+    {
+        if (Mathf.Abs(direction.x) > Mathf.Abs(direction.y))
+        {
+            return direction.x >= 0f ? "Right" : "Left";
+        }
+
+        return direction.y >= 0f ? "Up" : "Down";
     }
 }

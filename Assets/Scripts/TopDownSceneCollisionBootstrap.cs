@@ -21,16 +21,16 @@ public static class TopDownSceneCollisionBootstrap
     [RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.AfterSceneLoad)]
     private static void ConfigureLoadedScene()
     {
-        ConfigureScene(SceneManager.GetActiveScene());
+        ConfigureSceneColliders(SceneManager.GetActiveScene());
         SceneManager.sceneLoaded += OnSceneLoaded;
     }
 
     private static void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
-        ConfigureScene(scene);
+        ConfigureSceneColliders(scene);
     }
 
-    private static void ConfigureScene(Scene scene)
+    public static void ConfigureSceneColliders(Scene scene)
     {
         if (!scene.IsValid() || !scene.isLoaded)
         {
