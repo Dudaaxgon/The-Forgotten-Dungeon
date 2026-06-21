@@ -51,6 +51,19 @@ public class PlayerHealth : MonoBehaviour
         return true;
     }
 
+    public void RestoreFullHealth()
+    {
+        currentHealth = maxHealth;
+        nextDamageTime = 0f;
+        HealthChanged?.Invoke(currentHealth, maxHealth);
+
+        var movement = GetComponent<PlayerMovement>();
+        if (movement != null)
+        {
+            movement.enabled = true;
+        }
+    }
+
     private void SetHealth(int value, Vector2 sourcePosition)
     {
         currentHealth = Mathf.Clamp(value, 0, maxHealth);
