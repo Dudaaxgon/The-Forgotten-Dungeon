@@ -57,6 +57,9 @@ public class PlayerGameOver2D : MonoBehaviour
         Time.timeScale = 0f;
         yield return new WaitForSecondsRealtime(restartDelay);
         Time.timeScale = 1f;
+        showOverlay = false;
+        handlingGameOver = false;
+        health.RestoreFullHealth();
         var activeScene = SceneManager.GetActiveScene();
         if (activeScene.buildIndex >= 0)
         {

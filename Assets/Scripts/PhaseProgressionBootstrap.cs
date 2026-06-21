@@ -1,0 +1,120 @@
+using UnityEngine;
+using UnityEngine.SceneManagement;
+
+public static class PhaseProgressionBootstrap
+{
+    public const string PhaseOneScene = "Fase1";
+    public const string PhaseTwoScene = "Fase2";
+    public static readonly Vector2 PhaseOneExitPosition = new(8f, -18f);
+    public static readonly Vector2 PhaseTwoEntryPosition = new(-80f, -20f);
+
+    private static PlayerHealth pendingPlayer;
+    private static Vector2 pendingPosition;
+
+    [RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.AfterSceneLoad)]
+    private static void Initialize()
+    {
+        SceneManager.sceneLoaded -= OnSceneLoaded;
+        SceneManager.sceneLoaded += OnSceneLoaded;
+        ConfigureScene(SceneManager.GetActiveScene());
+    }
+
+    public static void TransitionPlayer(PlayerHealth player, string targetScene, Vector2 destinationPosition)
+    {
+        if (player == null || string.IsNullOrWhiteSpace(targetScene))
+        {
+            return;
+        }
+
+        pendingPlayer = player;
+        pendingPosition = destinationPosition;
+        player.transform.SetParent(null, true);
+        Object.DontDestroyOnLoad(player.gameObject);
+
+        var movement = player.GetComponent<PlayerMovement>();
+        if (movement != null)
+        {
+            movement.enabled = false;
+            movement.movement = Vector2.zero;
+        }
+
+        SceneManager.LoadScene(targetScene);
+    }
+
+    private static void OnSceneLoaded(Scene scene, LoadSceneMode mode)
+    {
+        ConfigureScene(scene);
+    }
+
+    private static void ConfigureScene(Scene scene)
+    {
+        if (!scene.IsValid() || !scene.isLoaded)
+        {
+            return;
+        }
+
+        if (scene.name == PhaseOneScene)
+        {
+            EnsurePhaseOneExit(scene);
+        }
+
+        if (scene.name == PhaseTwoScene)
+        {
+            PlacePlayerInPhaseTwo();
+        }
+    }
+
+    private static void EnsurePhaseOneExit(Scene scene)
+    {
+        foreach (var root in scene.GetRootGameObjects())
+        {
+            if (root.name == "Fase1ExitToFase2")
+            {
+                return;
+            }
+        }
+
+        var exitObject = new GameObject("Fase1ExitToFase2");
+        SceneManager.MoveGameObjectToScene(exitObject, scene);
+        exitObject.transform.position = PhaseOneExitPosition;
+        var trigger = exitObject.AddComponent<BoxCollider2D>();
+        trigger.size = new Vector2(2f, 2f);
+        trigger.isTrigger = true;
+        var transition = exitObject.AddComponent<SceneTransition2D>();
+        transition.Configure(PhaseTwoScene, PhaseTwoEntryPosition);
+    }
+
+    private static void PlacePlayerInPhaseTwo()
+    {
+        var player = pendingPlayer != null ? pendingPlayer : Object.FindFirstObjectByType<PlayerHealth>();
+        if (player == null)
+        {
+            return;
+        }
+
+        var position = pendingPlayer != null ? pendingPosition : PhaseTwoEntryPosition;
+        player.transform.position = position;
+        var body = player.GetComponent<Rigidbody2D>();
+        if (body != null)
+        {
+            body.position = position;
+            body.linearVelocity = Vector2.zero;
+        }
+
+        var movement = player.GetComponent<PlayerMovement>();
+        if (movement != null && !player.IsDead)
+        {
+            movement.enabled = true;
+        }
+
+        var camera = Camera.main;
+        if (camera != null)
+        {
+            var follow = camera.GetComponent<CameraFollow2D>() ?? camera.gameObject.AddComponent<CameraFollow2D>();
+            follow.SetTarget(player.transform);
+            camera.transform.position = new Vector3(position.x, position.y, camera.transform.position.z);
+        }
+
+        pendingPlayer = null;
+    }
+}
