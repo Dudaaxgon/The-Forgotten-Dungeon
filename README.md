@@ -21,29 +21,30 @@ A verdade só é revelada na fase final, quando o jogador precisa decidir o dest
 
 ## Fases
 
-### Fase 1 — Prisão Abandonada
+## Fase 1 — Prisão Abandonada
 
-Primeira área do jogo e introdução às mecânicas básicas.
+Área inicial da aventura.
 
-O jogador aprende os controles, explora as primeiras salas da masmorra, encontra o Mercador e obtém a primeira chave necessária para avançar.
+O jogador aprende os controles básicos, explora as catacumbas da prisão e encontra os primeiros recursos necessários para avançar. Durante a exploração, é possível interagir com NPCs e obter a chave que libera o acesso à próxima região.
 
-### Fase 2 — Catacumbas
+## Fase 2 — Caverna Esquecida
 
-Uma região formada por túneis antigos e corredores subterrâneos.
+Uma extensa rede de cavernas antigas.
 
-Nesta fase, o jogador deve encontrar três fragmentos de um mapa enquanto explora diferentes caminhos, evita armadilhas e interage com novos personagens.
+Para prosseguir, o jogador deve localizar fragmentos de um mapa escondidos em diferentes áreas da caverna. A exploração exige atenção aos caminhos disponíveis, aos elementos do cenário e às pistas espalhadas pelo ambiente.
 
-### Fase 3 — Salão dos Guardiões
+## Fase 3 — Salão dos Guardiões
 
-Área central da masmorra protegida por mecanismos antigos.
+Uma antiga câmara protegida por mecanismos e símbolos ancestrais.
 
-O objetivo é resolver o puzzle das alavancas para abrir a passagem para a área final. As informações obtidas com os NPCs podem ajudar a encontrar a solução correta.
+O objetivo é descobrir a sequência correta das alavancas para desbloquear a passagem adiante. Informações obtidas com NPCs e elementos do cenário ajudam a resolver o enigma.
 
-### Fase 4 — Câmara do Artefato
+## Fase 4 — Câmara do Artefato
 
-Última fase do jogo.
+A área final da jornada.
 
-O jogador descobre a origem da masmorra, conhece a verdade sobre o artefato e realiza a escolha final que determina o encerramento da história.
+Após superar os desafios anteriores, o jogador alcança a câmara onde o artefato está guardado. Segredos sobre a origem da masmorra são revelados e a escolha realizada pelo jogador determina o desfecho da história.
+
 
 ---
 
