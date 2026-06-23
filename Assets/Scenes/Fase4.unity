@@ -49026,6 +49026,150 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 6311716515571247685, guid: e334772702b12f64ebdb9b20fc1d2bcd, type: 3}
   m_PrefabInstance: {fileID: 1951051162}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &73410129
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 267129399}
+    m_Modifications:
+    - target: {fileID: 1790217749464474304, guid: 4ba93e2930022e9488f422721ddc07e6, type: 3}
+      propertyPath: m_SortingOrder
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 1790217749464474304, guid: 4ba93e2930022e9488f422721ddc07e6, type: 3}
+      propertyPath: m_SpriteSortPoint
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4741981634963650091, guid: 4ba93e2930022e9488f422721ddc07e6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4741981634963650091, guid: 4ba93e2930022e9488f422721ddc07e6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4741981634963650091, guid: 4ba93e2930022e9488f422721ddc07e6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4741981634963650091, guid: 4ba93e2930022e9488f422721ddc07e6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4741981634963650091, guid: 4ba93e2930022e9488f422721ddc07e6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4741981634963650091, guid: 4ba93e2930022e9488f422721ddc07e6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4741981634963650091, guid: 4ba93e2930022e9488f422721ddc07e6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4741981634963650091, guid: 4ba93e2930022e9488f422721ddc07e6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4741981634963650091, guid: 4ba93e2930022e9488f422721ddc07e6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4741981634963650091, guid: 4ba93e2930022e9488f422721ddc07e6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6210934183351305803, guid: 4ba93e2930022e9488f422721ddc07e6, type: 3}
+      propertyPath: m_Name
+      value: "NPC_SPIRIT_05_Esp\xEDrito"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7073221198188362725, guid: 4ba93e2930022e9488f422721ddc07e6, type: 3}
+      propertyPath: m_BodyType
+      value: 2
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 607850191987216124, guid: 4ba93e2930022e9488f422721ddc07e6, type: 3}
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 6210934183351305803, guid: 4ba93e2930022e9488f422721ddc07e6, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 73410132}
+  m_SourcePrefab: {fileID: 100100000, guid: 4ba93e2930022e9488f422721ddc07e6, type: 3}
+--- !u!4 &73410130 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4741981634963650091, guid: 4ba93e2930022e9488f422721ddc07e6, type: 3}
+  m_PrefabInstance: {fileID: 73410129}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &73410131 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6210934183351305803, guid: 4ba93e2930022e9488f422721ddc07e6, type: 3}
+  m_PrefabInstance: {fileID: 73410129}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &73410132
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 73410131}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 853ac2992b49da549a54046b9a8866e0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::NpcDialogue2D
+  npcId: NPC_SPIRIT_05
+  displayName: "Esp\xEDrito"
+  openingLine: "Voc\xEA finalmente chegou. Est\xE1 diante da origem de toda a dor
+    deste lugar. O artefato pode ser destru\xEDdo, selado novamente ou reclamado
+    por voc\xEA. O peso de uma escolha aqui \xE9 eterno."
+  options:
+  - label: Eu escolho destruir o artefato.
+    response: "Voc\xEA escolheu o vazio. A masmorra finalmente poder\xE1 cair em
+      esquecimento."
+  - label: "Eu vou sel\xE1-lo novamente."
+    response: "A ordem ser\xE1 mantida, mas ao custo de um eterno retorno. A hist\xF3ria
+      se repetir\xE1."
+  - label: Esse poder deveria ser meu.
+    response: "O poder \xE9 seu, mas a escurid\xE3o da masmorra agora habita em voc\xEA."
+  continuationPrompt: "E se eu escolher n\xE3o fazer nada e apenas for embora?"
+  continuationResponse: "A masmorra n\xE3o conhece o ir embora. A in\xE9rcia tamb\xE9m
+    \xE9 uma decis\xE3o, e o artefato n\xE3o perdoa quem se recusa a escolher."
+--- !u!1 &267129398
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 267129399}
+  m_Layer: 0
+  m_Name: Narrative_NPCs
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &267129399
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 267129398}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 73410130}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -49033,3 +49177,4 @@ SceneRoots:
   - {fileID: 1785168741}
   - {fileID: 297817074}
   - {fileID: 37593324}
+  - {fileID: 267129399}
