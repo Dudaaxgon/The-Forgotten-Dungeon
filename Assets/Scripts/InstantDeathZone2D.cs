@@ -1,7 +1,6 @@
 using UnityEngine;
 
 [DisallowMultipleComponent]
-[RequireComponent(typeof(Collider2D))]
 public class InstantDeathZone2D : MonoBehaviour
 {
     private void Awake()
