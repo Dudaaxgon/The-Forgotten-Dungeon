@@ -6,10 +6,13 @@ public static class PhaseProgressionBootstrap
     public const string PhaseOneScene = "Fase1";
     public const string PhaseTwoScene = "Fase2";
     public const string PhaseThreeScene = "Fase3";
+    public const string PhaseFourScene = "Fase4";
     public static readonly Vector2 PhaseOneExitPosition = new(8f, -18f);
-    public static readonly Vector2 PhaseTwoEntryPosition = new(-80f, -20f);
+    public static readonly Vector2 PhaseTwoEntryPosition = new(-79.5f, -19.5f);
     public static readonly Vector2 PhaseTwoExitPosition = new(62.5f, -21.5f);
     public static readonly Vector2 PhaseThreeEntryPosition = new(-20.5f, -72.5f);
+    public static readonly Vector2 PhaseThreeExitPosition = new(24.5f, 6.5f);
+    public static readonly Vector2 PhaseFourEntryPosition = new(-44.5f, -28.5f);
 
     private static PlayerHealth pendingPlayer;
     private static Vector2 pendingPosition;
@@ -69,7 +72,13 @@ public static class PhaseProgressionBootstrap
 
         if (scene.name == PhaseThreeScene)
         {
+            EnsurePhaseThreeExit(scene);
             PlacePlayerInPhase(PhaseThreeEntryPosition);
+        }
+
+        if (scene.name == PhaseFourScene)
+        {
+            PlacePlayerInPhase(PhaseFourEntryPosition);
         }
     }
 
@@ -111,6 +120,26 @@ public static class PhaseProgressionBootstrap
         trigger.isTrigger = true;
         var transition = exitObject.AddComponent<SceneTransition2D>();
         transition.Configure(PhaseThreeScene, PhaseThreeEntryPosition);
+    }
+
+    private static void EnsurePhaseThreeExit(Scene scene)
+    {
+        foreach (var root in scene.GetRootGameObjects())
+        {
+            if (root.name == "Fase3ExitToFase4")
+            {
+                return;
+            }
+        }
+
+        var exitObject = new GameObject("Fase3ExitToFase4");
+        SceneManager.MoveGameObjectToScene(exitObject, scene);
+        exitObject.transform.position = PhaseThreeExitPosition;
+        var trigger = exitObject.AddComponent<BoxCollider2D>();
+        trigger.size = new Vector2(3f, 2f);
+        trigger.isTrigger = true;
+        var transition = exitObject.AddComponent<SceneTransition2D>();
+        transition.Configure(PhaseFourScene, PhaseFourEntryPosition);
     }
 
     private static void PlacePlayerInPhase(Vector2 defaultPosition)
