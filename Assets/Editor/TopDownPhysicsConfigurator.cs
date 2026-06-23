@@ -17,7 +17,7 @@ public static class TopDownPhysicsConfigurator
     private static readonly string[] SolidTilemapNameParts =
     {
         "parede",
-        "porta",
+        "pilastra",
         "janela",
         "acabamento",
         "buraco",
@@ -67,6 +67,20 @@ public static class TopDownPhysicsConfigurator
         {
             foreach (var tilemap in root.GetComponentsInChildren<Tilemap>(true))
             {
+                if (tilemap.gameObject.name.Normalize(NormalizationForm.FormD).ToLowerInvariant().Contains("porta"))
+                {
+                    foreach (var collider in tilemap.GetComponents<Collider2D>())
+                    {
+                        UnityEngine.Object.DestroyImmediate(collider);
+                    }
+                    var body = tilemap.GetComponent<Rigidbody2D>();
+                    if (body != null)
+                    {
+                        UnityEngine.Object.DestroyImmediate(body);
+                    }
+                    continue;
+                }
+
                 if (!ShouldBeSolid(tilemap.gameObject.name))
                 {
                     continue;
