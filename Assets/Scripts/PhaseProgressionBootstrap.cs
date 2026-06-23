@@ -3,6 +3,7 @@ using UnityEngine.SceneManagement;
 
 public static class PhaseProgressionBootstrap
 {
+    public const bool AutomaticTransitionsEnabled = false;
     public const string PhaseOneScene = "Fase1";
     public const string PhaseTwoScene = "Fase2";
     public const string PhaseThreeScene = "Fase3";
@@ -20,6 +21,12 @@ public static class PhaseProgressionBootstrap
     [RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.AfterSceneLoad)]
     private static void Initialize()
     {
+        // Phase progression is owned by the objective-gating system being developed separately.
+        if (!AutomaticTransitionsEnabled)
+        {
+            return;
+        }
+
         SceneManager.sceneLoaded -= OnSceneLoaded;
         SceneManager.sceneLoaded += OnSceneLoaded;
         ConfigureScene(SceneManager.GetActiveScene());
