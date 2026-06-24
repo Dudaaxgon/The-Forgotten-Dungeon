@@ -141,7 +141,12 @@ public static class TopDownSceneCollisionBootstrap
                         movedTiles++;
                     }
                 }
-                RemoveCollision(wall.gameObject);
+
+                var wallCollider = wall.GetComponent<TilemapCollider2D>();
+                if (wallCollider != null && wallCollider.hasTilemapChanges)
+                {
+                    wallCollider.ProcessTilemapChanges();
+                }
             }
 
             foreach (var ground in tilemaps)
