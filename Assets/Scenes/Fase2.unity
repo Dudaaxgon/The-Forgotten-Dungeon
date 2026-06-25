@@ -216,6 +216,39 @@ MonoBehaviour:
   attackDamage: 16
   attackCooldown: 1.15
   attackHitDelay: 0.28
+--- !u!1 &90437729
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 90437730}
+  m_Layer: 0
+  m_Name: Narrative_NPCs
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &90437730
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 90437729}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1590241538}
+  - {fileID: 1035065400}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &103933396
 GameObject:
   m_ObjectHideFlags: 0
@@ -48579,6 +48612,118 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!1001 &1035065399
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 90437730}
+    m_Modifications:
+    - target: {fileID: 2250482348625932941, guid: 0d0d180b906c2304abae5ea9f50e2717, type: 3}
+      propertyPath: m_Name
+      value: NPC_GUARD_03_Guarda_Ferido
+      objectReference: {fileID: 0}
+    - target: {fileID: 2939143579880756941, guid: 0d0d180b906c2304abae5ea9f50e2717, type: 3}
+      propertyPath: m_SortingOrder
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 2939143579880756941, guid: 0d0d180b906c2304abae5ea9f50e2717, type: 3}
+      propertyPath: m_SpriteSortPoint
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5624823403295354504, guid: 0d0d180b906c2304abae5ea9f50e2717, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 59.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5624823403295354504, guid: 0d0d180b906c2304abae5ea9f50e2717, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -22.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5624823403295354504, guid: 0d0d180b906c2304abae5ea9f50e2717, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5624823403295354504, guid: 0d0d180b906c2304abae5ea9f50e2717, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5624823403295354504, guid: 0d0d180b906c2304abae5ea9f50e2717, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5624823403295354504, guid: 0d0d180b906c2304abae5ea9f50e2717, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5624823403295354504, guid: 0d0d180b906c2304abae5ea9f50e2717, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5624823403295354504, guid: 0d0d180b906c2304abae5ea9f50e2717, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5624823403295354504, guid: 0d0d180b906c2304abae5ea9f50e2717, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5624823403295354504, guid: 0d0d180b906c2304abae5ea9f50e2717, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7117535727257134449, guid: 0d0d180b906c2304abae5ea9f50e2717, type: 3}
+      propertyPath: m_BodyType
+      value: 2
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 3924402648779294584, guid: 0d0d180b906c2304abae5ea9f50e2717, type: 3}
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 2250482348625932941, guid: 0d0d180b906c2304abae5ea9f50e2717, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1035065402}
+  m_SourcePrefab: {fileID: 100100000, guid: 0d0d180b906c2304abae5ea9f50e2717, type: 3}
+--- !u!4 &1035065400 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5624823403295354504, guid: 0d0d180b906c2304abae5ea9f50e2717, type: 3}
+  m_PrefabInstance: {fileID: 1035065399}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1035065401 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2250482348625932941, guid: 0d0d180b906c2304abae5ea9f50e2717, type: 3}
+  m_PrefabInstance: {fileID: 1035065399}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1035065402
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1035065401}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 853ac2992b49da549a54046b9a8866e0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::NpcDialogue2D
+  npcId: NPC_GUARD_03
+  displayName: Guarda Ferido
+  openingLine: "Alto l\xE1... Um passo a mais e eu corto voc\xEA ao meio. Espere.
+    Voc\xEA n\xE3o tem os olhos daquelas criaturas, mas tamb\xE9m n\xE3o carrega
+    o emblema da guarda. Quem \xE9 voc\xEA?"
+  options:
+  - label: "N\xE3o sei quem sou. Estou tentando encontrar uma sa\xEDda."
+    response: "Sair... Voc\xEA caminha sobre o t\xFAmulo de centenas de irm\xE3os
+      meus. Demos nosso sangue para que os selos abaixo n\xE3o fossem rompidos. N\xE3o
+      h\xE1 salva\xE7\xE3o no escuro, apenas o eco das suas escolhas."
+  - label: "Que maldi\xE7\xE3o \xE9 essa?"
+    response: "O artefato \xE9 a raiz desta pris\xE3o. Fomos forjados no juramento
+      de proteg\xEA-lo, mas a ambi\xE7\xE3o apodrece at\xE9 a armadura mais reluzente.
+      Agora a masmorra cobra o pre\xE7o desse pecado antigo."
+  continuationPrompt: Se eu encontrar o artefato, o que devo fazer?
+  continuationResponse: "Pergunte-se o que \xE9 capaz de perder. Se quer ser her\xF3i,
+    destrua-o. Se quer ser mestre, carregue o fardo. Mestres acabam se tornando monstros."
 --- !u!1001 &1093478346
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -49658,9 +49803,6 @@ GameObject:
   - component: {fileID: 1187147165}
   - component: {fileID: 1187147167}
   - component: {fileID: 1187147166}
-  - component: {fileID: 1187147170}
-  - component: {fileID: 1187147169}
-  - component: {fileID: 1187147168}
   m_Layer: 0
   m_Name: Portas
   m_TagString: Untagged
@@ -49991,160 +50133,6 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
---- !u!66 &1187147168
-CompositeCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1187147164}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_CompositeOperation: 0
-  m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
-  m_GeometryType: 1
-  m_GenerationType: 0
-  m_EdgeRadius: 0
-  m_ColliderPaths:
-  - m_Collider: {fileID: 1187147170}
-    m_ColliderPaths:
-    - - X: 10000000
-        Y: 35000000
-      - X: 16250000
-        Y: 35000000
-      - X: 19062500
-        Y: 35937500
-      - X: 20000000
-        Y: 36562500
-      - X: 20000000
-        Y: 36250000
-      - X: 21875000
-        Y: 34687500
-      - X: 24062500
-        Y: 34062500
-      - X: 29062500
-        Y: 34062500
-      - X: 30000000
-        Y: 35000000
-      - X: 30000000
-        Y: 70000000
-      - X: 0
-        Y: 70000000
-      - X: 0
-        Y: 35312500
-      - X: 1875000
-        Y: 34062500
-      - X: 4687500
-        Y: 34062500
-  m_CompositePaths:
-    m_Paths:
-    - - {x: 0.4687475, y: 3.40625}
-      - {x: 1.0000023, y: 3.5}
-      - {x: 1.6250038, y: 3.5000012}
-      - {x: 1.906253, y: 3.5937521}
-      - {x: 2, y: 3.6561863}
-      - {x: 2.0000095, y: 3.6249921}
-      - {x: 2.1875048, y: 3.4687488}
-      - {x: 2.4062538, y: 3.40625}
-      - {x: 2.9062576, y: 3.4062576}
-      - {x: 3, y: 3.5000107}
-      - {x: 2.999971, y: 7}
-      - {x: 0, y: 6.9999704}
-      - {x: 0.0000118, y: 3.5312424}
-      - {x: 0.18750781, y: 3.40625}
-  m_VertexDistance: 0.0005
-  m_OffsetDistance: 0.00005
-  m_UseDelaunayMesh: 0
-  m_CompositeGameObject: {fileID: 1187147164}
---- !u!50 &1187147169
-Rigidbody2D:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1187147164}
-  m_BodyType: 2
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
---- !u!19719996 &1187147170
-TilemapCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1187147164}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_CompositeOperation: 1
-  m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
-  m_MaximumTileChangeCount: 1000
-  m_ExtrusionFactor: 0
-  m_UseDelaunayMesh: 0
 --- !u!1 &1201165720
 GameObject:
   m_ObjectHideFlags: 0
@@ -129348,6 +129336,116 @@ MonoBehaviour:
     m_VarianceClampScale: 0.9
     m_ContrastAdaptiveSharpening: 0
   m_Version: 2
+--- !u!1001 &1590241537
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 90437730}
+    m_Modifications:
+    - target: {fileID: 1975466123933724949, guid: caa44a743c2c2c449ad9d8bdb0650668, type: 3}
+      propertyPath: m_BodyType
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6530801736097916228, guid: caa44a743c2c2c449ad9d8bdb0650668, type: 3}
+      propertyPath: m_SortingOrder
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 7895505637233330119, guid: caa44a743c2c2c449ad9d8bdb0650668, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -38.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7895505637233330119, guid: caa44a743c2c2c449ad9d8bdb0650668, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 12.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7895505637233330119, guid: caa44a743c2c2c449ad9d8bdb0650668, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7895505637233330119, guid: caa44a743c2c2c449ad9d8bdb0650668, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7895505637233330119, guid: caa44a743c2c2c449ad9d8bdb0650668, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7895505637233330119, guid: caa44a743c2c2c449ad9d8bdb0650668, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7895505637233330119, guid: caa44a743c2c2c449ad9d8bdb0650668, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7895505637233330119, guid: caa44a743c2c2c449ad9d8bdb0650668, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7895505637233330119, guid: caa44a743c2c2c449ad9d8bdb0650668, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7895505637233330119, guid: caa44a743c2c2c449ad9d8bdb0650668, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8456149898276291392, guid: caa44a743c2c2c449ad9d8bdb0650668, type: 3}
+      propertyPath: m_Name
+      value: NPC_PRISONER_02_Prisioneira
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 6157846996115591244, guid: caa44a743c2c2c449ad9d8bdb0650668, type: 3}
+    - {fileID: 5323888125338364858, guid: caa44a743c2c2c449ad9d8bdb0650668, type: 3}
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 8456149898276291392, guid: caa44a743c2c2c449ad9d8bdb0650668, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1590241540}
+  m_SourcePrefab: {fileID: 100100000, guid: caa44a743c2c2c449ad9d8bdb0650668, type: 3}
+--- !u!4 &1590241538 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7895505637233330119, guid: caa44a743c2c2c449ad9d8bdb0650668, type: 3}
+  m_PrefabInstance: {fileID: 1590241537}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1590241539 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8456149898276291392, guid: caa44a743c2c2c449ad9d8bdb0650668, type: 3}
+  m_PrefabInstance: {fileID: 1590241537}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1590241540
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1590241539}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 853ac2992b49da549a54046b9a8866e0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::NpcDialogue2D
+  npcId: NPC_PRISONER_02
+  displayName: Prisioneira
+  openingLine: "Passos que n\xE3o arrastam correntes... Voc\xEA \xE9 real? Esse olhar
+    vazio. Voc\xEA tamb\xE9m n\xE3o sabe quem \xE9, n\xE3o \xE9? Deixou-se enganar
+    pelo homem das moedas na Pris\xE3o?"
+  options:
+  - label: "O Mercador? Ele me ajudou a sair de l\xE1."
+    response: "Ajudou? O pre\xE7o da ajuda dele \xE9 a sua ru\xEDna. N\xE3o existem
+      portas trancadas para fora daqui, apenas portas trancadas para as entranhas
+      deste lugar. Ele quer que voc\xEA des\xE7a."
+  - label: "Por que eu deveria acreditar em voc\xEA e n\xE3o nele?"
+    response: "Voc\xEA n\xE3o deveria. Mas pergunte a si mesmo o que um mercador
+      ganha vivendo entre os esquecidos. Ele apontou a dire\xE7\xE3o do abismo, n\xE3o
+      da superf\xEDcie."
+  continuationPrompt: "Se o Mercador \xE9 t\xE3o perigoso, por que voc\xEA n\xE3o
+    foge?"
+  continuationResponse: "As catacumbas s\xE3o um labirinto de arrependimentos. Pelo
+    menos aqui eu sei exatamente quem est\xE1 tentando me destruir."
 --- !u!1001 &1638869409
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -129963,3 +130061,4 @@ SceneRoots:
   - {fileID: 2028102714}
   - {fileID: 172922709}
   - {fileID: 771451543}
+  - {fileID: 90437730}
