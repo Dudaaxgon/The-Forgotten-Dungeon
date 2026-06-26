@@ -36497,6 +36497,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 945ac4398315e4f478260945106e8d5b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ItemColetar
+  somChave: {fileID: 0}
+  volume: 1
+  somFragmento: {fileID: 8300000, guid: 92087a0d46fdd654b9d8b99f668fdfe7, type: 3}
   tipoItem: 1
 --- !u!61 &172922708
 BoxCollider2D:
@@ -39753,6 +39756,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 945ac4398315e4f478260945106e8d5b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ItemColetar
+  somChave: {fileID: 0}
+  volume: 1
+  somFragmento: {fileID: 8300000, guid: 92087a0d46fdd654b9d8b99f668fdfe7, type: 3}
   tipoItem: 1
 --- !u!61 &771451542
 BoxCollider2D:
@@ -130257,6 +130263,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 945ac4398315e4f478260945106e8d5b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ItemColetar
+  somChave: {fileID: 0}
+  volume: 1
+  somFragmento: {fileID: 8300000, guid: 92087a0d46fdd654b9d8b99f668fdfe7, type: 3}
   tipoItem: 1
 --- !u!61 &2028102713
 BoxCollider2D:
