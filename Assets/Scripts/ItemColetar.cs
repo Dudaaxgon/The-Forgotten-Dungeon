@@ -19,9 +19,15 @@ public class ItemColetar : MonoBehaviour
         {
             if (tipoItem == TipoItem.Chave)
             {
+                if (GameManager.Instance.temChave)
+                {
+                    Debug.Log("Você já tem uma chave!");
+                    return;
+                }
                 AudioSource.PlayClipAtPoint(somChave, transform.position, volume);
                 GameManager.Instance.temChave = true;
                 Debug.Log("Chave coletada!");
+                Destroy(gameObject);
             }
             else if (tipoItem == TipoItem.Fragmento)
             {
@@ -29,9 +35,8 @@ public class ItemColetar : MonoBehaviour
                 GameManager.Instance.fragmentosColetados++;
                 Debug.Log("Fragmento coletado: " + 
                 GameManager.Instance.fragmentosColetados);
+                Destroy(gameObject);
             }
-
-            Destroy(gameObject); // Item some do mapa
         }
     }
 }
