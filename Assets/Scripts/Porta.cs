@@ -32,7 +32,14 @@ public class Porta : MonoBehaviour
             }
             else if (precisaDeAlavancas)
             {
-                Debug.Log("Ative as alavancas na sequência correta!");
+                if (aberta)
+                {
+                    CarregarProximaFase();
+                }
+                else
+                {
+                    Debug.Log("Ative as alavancas na sequência correta!");
+                }
             }
             else
             {
@@ -52,12 +59,17 @@ public class Porta : MonoBehaviour
     public void AbrirPorta()
     {
         aberta = true;
-        GetComponent<SpriteRenderer>().color = Color.green;
+        var sr = GetComponent<SpriteRenderer>();
+        if (sr != null)
+        {
+            sr.color = Color.green;
+        }
         Debug.Log("Porta aberta!");
     }
 
     void CarregarProximaFase()
     {
+        Debug.Log("Carregando cena: " + proximaFase);
         SceneManager.LoadScene(proximaFase);
     }
 }

@@ -4,11 +4,11 @@ public class SistemaAlavancas : MonoBehaviour
 {
     public static SistemaAlavancas Instance;
 
-    public int[] sequenciaCorreta = { 3, 1, 4, 2, 5 };
+    public int[] sequenciaCorreta = { 2, 4, 1, 3 };
     private int[] sequenciaJogador;
     private int posicaoAtual = 0;
 
-    public GameObject portaObj; // referência ao objeto da porta
+    public Porta[] portas; // referência às duas portas de saída
     private bool portaAberta = false;
 
     void Awake()
@@ -42,8 +42,8 @@ public class SistemaAlavancas : MonoBehaviour
             }
         }
 
-        Debug.Log("Sequência correta! Porta abrindo!");
-        AbrirPorta();
+        Debug.Log("Sequência correta! Portas abrindo!");
+        AbrirPortas();
     }
 
     void ResetarSequencia()
@@ -58,14 +58,17 @@ public class SistemaAlavancas : MonoBehaviour
         }
     }
 
-    void AbrirPorta()
+    void AbrirPortas()
     {
         portaAberta = true;
-        if (portaObj != null)
+        foreach (Porta porta in portas)
         {
-            portaObj.SetActive(false); // desativa o colisor da porta
+            if (porta != null)
+            {
+                porta.AbrirPorta();
+            }
         }
-        Debug.Log("Porta aberta!");
+        Debug.Log("Portas abertas!");
     }
 
     public bool PortaEstaAberta()
