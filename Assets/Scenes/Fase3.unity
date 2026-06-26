@@ -85667,8 +85667,7 @@ Transform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 1991599871}
+  m_Children: []
   m_Father: {fileID: 987322542}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &895297152
@@ -127786,103 +127785,6 @@ MonoBehaviour:
   leashRadius: 9
   attackRange: 0.9
   attackDamage: 12
-  attackCooldown: 1.15
-  attackHitDelay: 0.28
---- !u!1001 &1991599870
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 865236466}
-    m_Modifications:
-    - target: {fileID: 596604905595537579, guid: f4299921ac3987d43b045d85e0cdd7cd, type: 3}
-      propertyPath: m_Name
-      value: Enemy_Lich3_01
-      objectReference: {fileID: 0}
-    - target: {fileID: 2519581562082079029, guid: f4299921ac3987d43b045d85e0cdd7cd, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 24.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 2519581562082079029, guid: f4299921ac3987d43b045d85e0cdd7cd, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 2519581562082079029, guid: f4299921ac3987d43b045d85e0cdd7cd, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2519581562082079029, guid: f4299921ac3987d43b045d85e0cdd7cd, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 2519581562082079029, guid: f4299921ac3987d43b045d85e0cdd7cd, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2519581562082079029, guid: f4299921ac3987d43b045d85e0cdd7cd, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2519581562082079029, guid: f4299921ac3987d43b045d85e0cdd7cd, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2519581562082079029, guid: f4299921ac3987d43b045d85e0cdd7cd, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2519581562082079029, guid: f4299921ac3987d43b045d85e0cdd7cd, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2519581562082079029, guid: f4299921ac3987d43b045d85e0cdd7cd, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7133127265401613264, guid: f4299921ac3987d43b045d85e0cdd7cd, type: 3}
-      propertyPath: m_SortingOrder
-      value: 20
-      objectReference: {fileID: 0}
-    - target: {fileID: 7133127265401613264, guid: f4299921ac3987d43b045d85e0cdd7cd, type: 3}
-      propertyPath: m_SpriteSortPoint
-      value: 1
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 596604905595537579, guid: f4299921ac3987d43b045d85e0cdd7cd, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1991599873}
-  m_SourcePrefab: {fileID: 100100000, guid: f4299921ac3987d43b045d85e0cdd7cd, type: 3}
---- !u!4 &1991599871 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 2519581562082079029, guid: f4299921ac3987d43b045d85e0cdd7cd, type: 3}
-  m_PrefabInstance: {fileID: 1991599870}
-  m_PrefabAsset: {fileID: 0}
---- !u!1 &1991599872 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 596604905595537579, guid: f4299921ac3987d43b045d85e0cdd7cd, type: 3}
-  m_PrefabInstance: {fileID: 1991599870}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1991599873
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1991599872}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a1cb8c8fb187d9742aeeaa7ce59fba6c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::EnemyAI2D
-  moveSpeed: 1.7
-  detectionRadius: 7
-  leashRadius: 12
-  attackRange: 0.9
-  attackDamage: 23
   attackCooldown: 1.15
   attackHitDelay: 0.28
 --- !u!1 &2024422684
