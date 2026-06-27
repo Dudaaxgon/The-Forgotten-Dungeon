@@ -27,7 +27,7 @@ public class PlayerCombat2D : MonoBehaviour
 
     private void Update()
     {
-        if (Input.GetMouseButtonDown(0) || Input.GetKeyDown(keyboardAttackKey))
+        if (Input.GetKeyDown(keyboardAttackKey))
         {
             TryAttack();
         }
