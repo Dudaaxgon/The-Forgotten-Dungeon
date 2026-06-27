@@ -13,6 +13,7 @@ public static class CombatSystemVerifier
     private static PlayerHealth playerHealth;
     private static PlayerCombat2D playerCombat;
     private static PlayerMovement playerMovement;
+    private static Animator playerAnimator;
     private static EnemyAI2D enemyAi;
     private static EnemyHealth2D enemyHealth;
     private static Rigidbody2D enemyBody;
@@ -64,6 +65,7 @@ public static class CombatSystemVerifier
         playerHealth = UnityEngine.Object.FindFirstObjectByType<PlayerHealth>();
         playerMovement = playerHealth.GetComponent<PlayerMovement>();
         playerCombat = playerHealth.GetComponent<PlayerCombat2D>() ?? playerHealth.gameObject.AddComponent<PlayerCombat2D>();
+        playerAnimator = playerHealth.GetComponent<Animator>();
 
         var enemies = UnityEngine.Object.FindObjectsByType<EnemyAI2D>(FindObjectsSortMode.None);
         enemyAi = enemies.First();
@@ -77,11 +79,11 @@ public static class CombatSystemVerifier
 
         enemyHealth = enemyAi.GetComponent<EnemyHealth2D>() ?? enemyAi.gameObject.AddComponent<EnemyHealth2D>();
         enemyBody = enemyAi.GetComponent<Rigidbody2D>();
-        playerMovement.enabled = false;
         enemyAi.enabled = false;
 
         playerHealth.RestoreFullHealth();
-        playerMovement.enabled = false;
+        playerMovement.enabled = true;
+        playerMovement.movement = Vector2.zero;
         playerHealth.transform.position = new Vector2(100f, 100f);
         enemyBody.position = new Vector2(100f, 99.2f);
         enemyAi.transform.position = enemyBody.position;
@@ -131,6 +133,14 @@ public static class CombatSystemVerifier
         if (enemyHealth.CurrentHealth >= enemyHealthBeforeAttack)
         {
             throw new InvalidOperationException($"Player attack did not damage the enemy. Enemy health={enemyHealth.CurrentHealth}.");
+        }
+
+        if (playerAnimator != null
+            && !playerAnimator.GetCurrentAnimatorStateInfo(0).IsName("Attack_Down")
+            && !playerAnimator.GetCurrentAnimatorStateInfo(0).IsName("WalkAttack_Down")
+            && !playerAnimator.GetCurrentAnimatorStateInfo(0).IsName("RunAttack_Down"))
+        {
+            throw new InvalidOperationException("Player attack visual was overwritten before the attack animation could play.");
         }
 
         Finish(true, $"Combat play test passed: player damaged enemy ({enemyHealthBeforeAttack}->{enemyHealth.CurrentHealth}). Enemy damage is covered by Fase1GameplayVerifier.");

@@ -10,14 +10,17 @@ public class PlayerCombat2D : MonoBehaviour
     [SerializeField, Min(0.1f)] private float attackRange = 0.95f;
     [SerializeField, Min(0.1f)] private float attackRadius = 0.55f;
     [SerializeField, Min(0.05f)] private float attackCooldown = 0.45f;
+    [SerializeField, Min(0.05f)] private float attackAnimationLock = 0.32f;
     [SerializeField] private KeyCode keyboardAttackKey = KeyCode.Space;
 
     private PlayerMovement movement;
     private Animator animator;
     private float nextAttackTime;
+    private float attackAnimationUntil;
 
     public int AttackDamage => attackDamage;
     public float AttackRange => attackRange;
+    public bool IsAttackAnimationActive => Time.time < attackAnimationUntil;
 
     private void Awake()
     {
@@ -41,6 +44,7 @@ public class PlayerCombat2D : MonoBehaviour
         }
 
         nextAttackTime = Time.time + attackCooldown;
+        attackAnimationUntil = Time.time + attackAnimationLock;
         var direction = movement != null ? movement.LastDirection : Vector2.down;
         if (direction.sqrMagnitude <= 0.001f)
         {
@@ -109,9 +113,9 @@ public class PlayerCombat2D : MonoBehaviour
             : (direction.y >= 0f ? "Up" : "Down");
         var candidates = new[]
         {
-            $"Attack_{directionName}",
             $"WalkAttack_{directionName}",
-            $"RunAttack_{directionName}"
+            $"RunAttack_{directionName}",
+            $"Attack_{directionName}"
         };
 
         foreach (var stateName in candidates)
@@ -119,7 +123,7 @@ public class PlayerCombat2D : MonoBehaviour
             var stateHash = Animator.StringToHash($"Base Layer.{stateName}");
             if (animator.HasState(0, stateHash))
             {
-                animator.Play(stateName);
+                animator.Play(stateName, 0, 0f);
                 return;
             }
         }
