@@ -55,6 +55,7 @@ public sealed class NpcDialogue2D : MonoBehaviour
     public string ContinuationResponse => continuationResponse;
     public int CurrentPage => page;
     public int SelectedOptionIndex => selectedOption;
+    public bool IsPlayerInRange => nearbyPlayer != null;
 
     public void Configure(
         string id,
