@@ -34,6 +34,11 @@ public class PlayerMovement : MonoBehaviour
         }
 
         ConfigurePhysics();
+
+        if (GetComponent<PlayerCombat2D>() == null)
+        {
+            gameObject.AddComponent<PlayerCombat2D>();
+        }
     }
 
     private void Update()
