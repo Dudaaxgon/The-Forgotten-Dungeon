@@ -86,6 +86,7 @@ public static class CombatSystemVerifier
         enemyBody.position = new Vector2(100f, 99.2f);
         enemyAi.transform.position = enemyBody.position;
         Physics2D.SyncTransforms();
+        VerifyPlayerEnemyCollisionIgnored();
 
         enemyHealthBeforeAttack = enemyHealth.CurrentHealth;
         var hit = playerCombat.TryAttack();
@@ -97,6 +98,27 @@ public static class CombatSystemVerifier
         phaseStarted = Time.realtimeSinceStartup;
         phase = 1;
         Debug.Log("Combat play test: player attack phase started.");
+    }
+
+    private static void VerifyPlayerEnemyCollisionIgnored()
+    {
+        var playerColliders = playerHealth.GetComponentsInChildren<Collider2D>(true);
+        var enemyColliders = enemyAi.GetComponentsInChildren<Collider2D>(true);
+        if (playerColliders.Length == 0 || enemyColliders.Length == 0)
+        {
+            throw new InvalidOperationException("Combat collision test requires player and enemy colliders.");
+        }
+
+        foreach (var playerCollider in playerColliders)
+        {
+            foreach (var enemyCollider in enemyColliders)
+            {
+                if (playerCollider != null && enemyCollider != null && !Physics2D.GetIgnoreCollision(playerCollider, enemyCollider))
+                {
+                    throw new InvalidOperationException("Player and enemy body colliders are still physically colliding.");
+                }
+            }
+        }
     }
 
     private static void VerifyPlayerAttack()

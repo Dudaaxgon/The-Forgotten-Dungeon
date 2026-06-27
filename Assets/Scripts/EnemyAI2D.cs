@@ -27,6 +27,8 @@ public class EnemyAI2D : MonoBehaviour
     private Rigidbody2D body;
     private Animator animator;
     private EnemyHealth2D health;
+    private Collider2D[] enemyColliders;
+    private PlayerHealth ignoredCollisionPlayer;
     private PlayerHealth target;
     private Vector2 guardPosition;
     private Vector2 facing = Vector2.down;
@@ -59,6 +61,7 @@ public class EnemyAI2D : MonoBehaviour
         body = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         health = GetComponent<EnemyHealth2D>() ?? gameObject.AddComponent<EnemyHealth2D>();
+        enemyColliders = GetComponentsInChildren<Collider2D>(true);
         guardPosition = body.position;
         body.gravityScale = 0f;
         body.freezeRotation = true;
@@ -72,6 +75,8 @@ public class EnemyAI2D : MonoBehaviour
         pendingHitTime = -1f;
         nextAttackTime = 0f;
         activeAnimation = null;
+        ignoredCollisionPlayer = null;
+        IgnoreCollisionsWithPlayer(Object.FindFirstObjectByType<PlayerHealth>());
     }
 
     private void Update()
@@ -90,6 +95,7 @@ public class EnemyAI2D : MonoBehaviour
         if (!HasTarget)
         {
             target = FindPlayer();
+            IgnoreCollisionsWithPlayer(target);
         }
 
         UpdateState();
@@ -156,6 +162,37 @@ public class EnemyAI2D : MonoBehaviour
         return Vector2.Distance(body.position, playerPosition) <= detectionRadius && HasLineOfSight(playerPosition)
             ? player
             : null;
+    }
+
+    private void IgnoreCollisionsWithPlayer(PlayerHealth player)
+    {
+        if (player == null || player == ignoredCollisionPlayer)
+        {
+            return;
+        }
+
+        if (enemyColliders == null || enemyColliders.Length == 0)
+        {
+            enemyColliders = GetComponentsInChildren<Collider2D>(true);
+        }
+
+        foreach (var enemyCollider in enemyColliders)
+        {
+            if (enemyCollider == null)
+            {
+                continue;
+            }
+
+            foreach (var playerCollider in player.GetComponentsInChildren<Collider2D>(true))
+            {
+                if (playerCollider != null)
+                {
+                    Physics2D.IgnoreCollision(enemyCollider, playerCollider, true);
+                }
+            }
+        }
+
+        ignoredCollisionPlayer = player;
     }
 
     private bool HasLineOfSight(Vector2 targetPosition)
