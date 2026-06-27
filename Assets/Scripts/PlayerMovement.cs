@@ -11,6 +11,7 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] public Vector2 movement;
 
     private Vector2 lastDirection = Vector2.down;
+    private PlayerCombat2D combat;
 
     public Vector2 LastDirection => lastDirection;
 
@@ -37,7 +38,11 @@ public class PlayerMovement : MonoBehaviour
 
         if (GetComponent<PlayerCombat2D>() == null)
         {
-            gameObject.AddComponent<PlayerCombat2D>();
+            combat = gameObject.AddComponent<PlayerCombat2D>();
+        }
+        else
+        {
+            combat = GetComponent<PlayerCombat2D>();
         }
     }
 
@@ -84,6 +89,11 @@ public class PlayerMovement : MonoBehaviour
     private void UpdateAnimator()
     {
         if (anim == null)
+        {
+            return;
+        }
+
+        if (combat != null && combat.IsAttackAnimationActive)
         {
             return;
         }

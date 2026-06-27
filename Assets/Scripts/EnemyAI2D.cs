@@ -23,6 +23,7 @@ public class EnemyAI2D : MonoBehaviour
     [SerializeField, Min(1)] private int attackDamage = 10;
     [SerializeField, Min(0.1f)] private float attackCooldown = 1.15f;
     [SerializeField, Range(0f, 1f)] private float attackHitDelay = 0.28f;
+    [SerializeField, Min(0.05f)] private float attackAnimationLock = 0.45f;
 
     private Rigidbody2D body;
     private Animator animator;
@@ -35,6 +36,7 @@ public class EnemyAI2D : MonoBehaviour
     private State state;
     private float nextAttackTime;
     private float pendingHitTime = -1f;
+    private float attackAnimationUntil;
     private string activeAnimation;
 
     public Vector2 GuardPosition => guardPosition;
@@ -73,6 +75,7 @@ public class EnemyAI2D : MonoBehaviour
     {
         target = null;
         pendingHitTime = -1f;
+        attackAnimationUntil = 0f;
         nextAttackTime = 0f;
         activeAnimation = null;
         ignoredCollisionPlayer = null;
@@ -136,7 +139,7 @@ public class EnemyAI2D : MonoBehaviour
         if (distanceToTarget <= attackRange)
         {
             state = State.Attack;
-            facing = (targetPosition - body.position).normalized;
+            FaceTarget(targetPosition);
             BeginAttack();
         }
         else if (distanceToTarget <= detectionRadius && HasLineOfSight(targetPosition))
@@ -239,6 +242,7 @@ public class EnemyAI2D : MonoBehaviour
 
         nextAttackTime = Time.time + attackCooldown;
         pendingHitTime = Time.time + attackHitDelay;
+        attackAnimationUntil = Time.time + attackAnimationLock;
         PlayAnimation("Attack");
     }
 
@@ -258,12 +262,21 @@ public class EnemyAI2D : MonoBehaviour
 
     private void UpdateAnimation()
     {
-        if (state == State.Attack && pendingHitTime >= 0f)
+        if (state == State.Attack && Time.time < attackAnimationUntil)
         {
             return;
         }
 
         PlayAnimation(state == State.Chase || state == State.Return ? "Walk" : "Idle");
+    }
+
+    private void FaceTarget(Vector2 targetPosition)
+    {
+        var targetDirection = targetPosition - body.position;
+        if (targetDirection.sqrMagnitude > 0.001f)
+        {
+            facing = targetDirection.normalized;
+        }
     }
 
     private void PlayAnimation(string action)
@@ -273,9 +286,7 @@ public class EnemyAI2D : MonoBehaviour
             return;
         }
 
-        var direction = Mathf.Abs(facing.x) > Mathf.Abs(facing.y)
-            ? (facing.x >= 0f ? "Right" : "Left")
-            : (facing.y >= 0f ? "Up" : "Down");
+        var direction = GetDirectionName();
         var stateName = $"{action}_{direction}";
         if (stateName == activeAnimation)
         {
@@ -285,8 +296,18 @@ public class EnemyAI2D : MonoBehaviour
         var stateHash = Animator.StringToHash($"Base Layer.{stateName}");
         if (animator.HasState(0, stateHash))
         {
-            animator.Play(stateName);
+            animator.Play(stateName, 0, 0f);
             activeAnimation = stateName;
         }
+    }
+
+    private string GetDirectionName()
+    {
+        if (Mathf.Abs(facing.x) > Mathf.Abs(facing.y))
+        {
+            return facing.x >= 0f ? "Right" : "Left";
+        }
+
+        return facing.y >= 0f ? "Down" : "Up";
     }
 }
