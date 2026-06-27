@@ -48443,8 +48443,8 @@ MonoBehaviour:
   npcId: NPC_GUARD_03
   displayName: Guarda Ferido
   openingLine: "Alto l\xE1... Um passo a mais e eu corto voc\xEA ao meio. Espere.
-    Voc\xEA n\xE3o tem os olhos daquelas criaturas, mas tamb\xE9m n\xE3o carrega
-    o emblema da guarda. Quem \xE9 voc\xEA?"
+    Voc\xEA n\xE3o tem os olhos daquelas criaturas, mas tamb\xE9m n\xE3o carrega o
+    emblema da guarda. Quem \xE9 voc\xEA?"
   options:
   - label: "N\xE3o sei quem sou. Estou tentando encontrar uma sa\xEDda."
     response: "Sair... Voc\xEA caminha sobre o t\xFAmulo de centenas de irm\xE3os
@@ -49533,6 +49533,139 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!1001 &1179715145
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1894540817180350041, guid: 9bd1d1af46694e443a06df58fcf18712, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1894540817180350041, guid: 9bd1d1af46694e443a06df58fcf18712, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1894540817180350041, guid: 9bd1d1af46694e443a06df58fcf18712, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1894540817180350041, guid: 9bd1d1af46694e443a06df58fcf18712, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1894540817180350041, guid: 9bd1d1af46694e443a06df58fcf18712, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1950823948557140975, guid: 9bd1d1af46694e443a06df58fcf18712, type: 3}
+      propertyPath: m_Name
+      value: DialogueSystem
+      objectReference: {fileID: 0}
+    - target: {fileID: 1966038638963479211, guid: 9bd1d1af46694e443a06df58fcf18712, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1966038638963479211, guid: 9bd1d1af46694e443a06df58fcf18712, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1966038638963479211, guid: 9bd1d1af46694e443a06df58fcf18712, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1966038638963479211, guid: 9bd1d1af46694e443a06df58fcf18712, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1966038638963479211, guid: 9bd1d1af46694e443a06df58fcf18712, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2293363876758542660, guid: 9bd1d1af46694e443a06df58fcf18712, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 225
+      objectReference: {fileID: 0}
+    - target: {fileID: 2293363876758542660, guid: 9bd1d1af46694e443a06df58fcf18712, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 2652871678894018323, guid: 9bd1d1af46694e443a06df58fcf18712, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2652871678894018323, guid: 9bd1d1af46694e443a06df58fcf18712, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2652871678894018323, guid: 9bd1d1af46694e443a06df58fcf18712, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2652871678894018323, guid: 9bd1d1af46694e443a06df58fcf18712, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2652871678894018323, guid: 9bd1d1af46694e443a06df58fcf18712, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3409679328685767475, guid: 9bd1d1af46694e443a06df58fcf18712, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -110
+      objectReference: {fileID: 0}
+    - target: {fileID: 6001395949503790602, guid: 9bd1d1af46694e443a06df58fcf18712, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 342.54828
+      objectReference: {fileID: 0}
+    - target: {fileID: 6001395949503790602, guid: 9bd1d1af46694e443a06df58fcf18712, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 135.17706
+      objectReference: {fileID: 0}
+    - target: {fileID: 6001395949503790602, guid: 9bd1d1af46694e443a06df58fcf18712, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6001395949503790602, guid: 9bd1d1af46694e443a06df58fcf18712, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6001395949503790602, guid: 9bd1d1af46694e443a06df58fcf18712, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6001395949503790602, guid: 9bd1d1af46694e443a06df58fcf18712, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6001395949503790602, guid: 9bd1d1af46694e443a06df58fcf18712, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6001395949503790602, guid: 9bd1d1af46694e443a06df58fcf18712, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6001395949503790602, guid: 9bd1d1af46694e443a06df58fcf18712, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6001395949503790602, guid: 9bd1d1af46694e443a06df58fcf18712, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8648504754550748337, guid: 9bd1d1af46694e443a06df58fcf18712, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -180
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9bd1d1af46694e443a06df58fcf18712, type: 3}
 --- !u!1 &1187147164
 GameObject:
   m_ObjectHideFlags: 0
@@ -129279,9 +129412,9 @@ MonoBehaviour:
       portas trancadas para fora daqui, apenas portas trancadas para as entranhas
       deste lugar. Ele quer que voc\xEA des\xE7a."
   - label: "Por que eu deveria acreditar em voc\xEA e n\xE3o nele?"
-    response: "Voc\xEA n\xE3o deveria. Mas pergunte a si mesmo o que um mercador
-      ganha vivendo entre os esquecidos. Ele apontou a dire\xE7\xE3o do abismo, n\xE3o
-      da superf\xEDcie."
+    response: "Voc\xEA n\xE3o deveria. Mas pergunte a si mesmo o que um mercador ganha
+      vivendo entre os esquecidos. Ele apontou a dire\xE7\xE3o do abismo, n\xE3o da
+      superf\xEDcie."
   continuationPrompt: "Se o Mercador \xE9 t\xE3o perigoso, por que voc\xEA n\xE3o
     foge?"
   continuationResponse: "As catacumbas s\xE3o um labirinto de arrependimentos. Pelo
@@ -129930,3 +130063,4 @@ SceneRoots:
   - {fileID: 1506949780}
   - {fileID: 1910234795}
   - {fileID: 222919043}
+  - {fileID: 1179715145}

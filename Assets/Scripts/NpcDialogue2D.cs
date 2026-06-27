@@ -48,6 +48,14 @@ public sealed class NpcDialogue2D : MonoBehaviour
     public int OptionCount => options?.Length ?? 0;
     public bool IsConversationOpen => activeDialogue == this;
 
+    // --- Getters adicionados para a interface visual (Canvas/TextMeshPro) ---
+    public string OpeningLine => openingLine;
+    public DialogueOption[] Options => options;
+    public string ContinuationPrompt => continuationPrompt;
+    public string ContinuationResponse => continuationResponse;
+    public int CurrentPage => page;
+    public int SelectedOptionIndex => selectedOption;
+
     public void Configure(
         string id,
         string characterName,
@@ -106,6 +114,9 @@ public sealed class NpcDialogue2D : MonoBehaviour
         }
     }
 
+    // OnGUI antigo desativado: a interface visual agora é feita pelo DialogueUIView (Canvas/TextMeshPro).
+    // Mantido aqui comentado apenas como referência, caso precise comparar o comportamento original.
+    /*
     private void OnGUI()
     {
         EnsureStyles();
@@ -123,6 +134,7 @@ public sealed class NpcDialogue2D : MonoBehaviour
             GUI.Label(rect, $"E  Conversar com {displayName}", promptStyle);
         }
     }
+    */
 
     public bool BeginConversation(PlayerMovement player)
     {
