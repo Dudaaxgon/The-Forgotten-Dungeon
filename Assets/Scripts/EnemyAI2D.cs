@@ -26,6 +26,7 @@ public class EnemyAI2D : MonoBehaviour
 
     private Rigidbody2D body;
     private Animator animator;
+    private EnemyHealth2D health;
     private PlayerHealth target;
     private Vector2 guardPosition;
     private Vector2 facing = Vector2.down;
@@ -57,6 +58,7 @@ public class EnemyAI2D : MonoBehaviour
     {
         body = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
+        health = GetComponent<EnemyHealth2D>() ?? gameObject.AddComponent<EnemyHealth2D>();
         guardPosition = body.position;
         body.gravityScale = 0f;
         body.freezeRotation = true;
@@ -64,8 +66,21 @@ public class EnemyAI2D : MonoBehaviour
         body.collisionDetectionMode = CollisionDetectionMode2D.Continuous;
     }
 
+    private void OnEnable()
+    {
+        target = null;
+        pendingHitTime = -1f;
+        nextAttackTime = 0f;
+        activeAnimation = null;
+    }
+
     private void Update()
     {
+        if (health != null && health.IsDead)
+        {
+            return;
+        }
+
         if (pendingHitTime >= 0f && Time.time >= pendingHitTime)
         {
             pendingHitTime = -1f;
